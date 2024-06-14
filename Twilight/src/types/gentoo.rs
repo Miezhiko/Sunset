@@ -1,5 +1,6 @@
 use serde::Deserialize;
 
+#[allow(dead_code)]
 #[allow(non_snake_case)]
 #[derive(Deserialize, Debug)]
 pub struct Bug {

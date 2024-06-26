@@ -71,3 +71,40 @@ pub async fn delete(key: &str) -> Result<()> {
     Err(anyhow!("can't get sled db mutex"))
   }
 }
+
+pub async fn export() -> Result<Vec<(String, String)>> {
+  init_db().await?;
+  if let Some(sled_mutex) = SLED_DB.get() {
+    let sled = sled_mutex.lock().await;
+    let mut result = vec![];
+    for k in sled.iter().keys().flatten() {
+      if let Ok(kk) = String::from_utf8(k.to_vec())
+                        .map_err(|error| anyhow!("Failed to parse utf8 {error}")) {
+        match sled.get(&kk) {
+          Ok(Some(value)) => {
+           if let Ok(val) =
+            String::from_utf8(value.to_vec())
+              .map_err(|error| anyhow!("Failed to parse utf8 {error}")) {
+                result.push((kk, val));
+            }
+          },
+          Ok(None)  => { return Err(anyhow!("value not found")) },
+          Err(e)    => { return Err(anyhow!("operational problem encountered: {e}")); }
+        }
+      }
+    }
+    Ok(result)
+  } else {
+    Err(anyhow!("can't get sled db mutex"))
+  }
+}
+
+pub async fn import(data: Vec<(String, String)>) -> Result<()> {
+  init_db().await?;
+  for (key, value) in data {
+    if let Some(sled_mutex) = SLED_DB.get() {
+      sled_mutex.lock().await.insert(key, value)?;
+    }
+  }
+  Ok(())
+}

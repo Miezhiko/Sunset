@@ -8,7 +8,8 @@ use crate::{
       register::register,
       show::show,
       list::list,
-      delete::delete
+      delete::delete,
+      export
     }
   }
 };
@@ -75,8 +76,14 @@ pub async fn handle_event(
           Some("-show")     => spawn(show(msg.0, Arc::clone(&state))),
           Some("-list")     => spawn(list(msg.0, Arc::clone(&state))),
           Some("-delete")   => spawn(delete(msg.0, Arc::clone(&state))),
-          Some(_)           => {
-            if let Some(bug_number) = contains_bug(msg.content.as_str()) {
+          Some(cmd)         => {
+            if msg.author.id.get() == 510368731378089984 {
+              match cmd {
+                "-import"  => spawn(export::import(msg.0, Arc::clone(&state))),
+                "-export"  => spawn(export::export(msg.0, Arc::clone(&state))),
+                _category  => {}
+              }
+            } else if let Some(bug_number) = contains_bug(msg.content.as_str()) {
               spawn(bug(msg.0, Some(bug_number), Arc::clone(&state)))
             }
           },

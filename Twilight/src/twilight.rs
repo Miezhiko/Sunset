@@ -19,7 +19,7 @@ use twilight_gateway::{
   StreamExt as _
 };
 
-use twilight_http::Client as HttpClient;
+use twilight_http::client::ClientBuilder;
 
 use tracing_subscriber::FmtSubscriber;
 
@@ -38,7 +38,11 @@ pub async fn run(opts: IOptions) -> anyhow::Result<()> {
     Intents::GUILD_MESSAGES | Intents::MESSAGE_CONTENT,
   );
 
-  let http = HttpClient::new(opts.discord);
+  let http = ClientBuilder::new()
+                           .token(opts.discord)
+                        /* .proxy( String::from("http://127.0.0.1:12334"), true ) */
+                           .build();
+
   let cache = DefaultInMemoryCache::builder()
                 .resource_types(ResourceType::MESSAGE)
                 .build();

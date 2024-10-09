@@ -27,6 +27,8 @@ use twilight_gateway::Event;
 
 use twilight_model::channel::Message;
 
+const ME: u64 = 510368731378089984;
+
 fn spawn(fut: impl Future<Output = anyhow::Result<()>> + Send + 'static) {
   tokio::spawn(async move {
     if let Err(why) = fut.await {
@@ -77,7 +79,7 @@ pub async fn handle_event(
           Some("-list")     => spawn(list(msg.0, Arc::clone(&state))),
           Some("-delete")   => spawn(delete(msg.0, Arc::clone(&state))),
           Some(cmd)         => {
-            if msg.author.id.get() == 510368731378089984 {
+            if msg.author.id.get() == ME {
               match cmd {
                 "-import"  => spawn(export::import(msg.0, Arc::clone(&state))),
                 "-export"  => spawn(export::export(msg.0, Arc::clone(&state))),

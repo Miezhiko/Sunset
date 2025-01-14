@@ -121,6 +121,7 @@ pub async fn overlays(msg: Message, state: State) -> anyhow::Result<()> {
       let document = Document::from(&pkg_resp);
       document.nip("div > li").iter().take(5).flat_map(|element| {
         let text  = element.text();
+        #[allow(clippy::manual_pattern_char_comparison)]
         let split = text.split(|c| c == ' ' || c == '\n' || c == '\t')
                         .filter(|&x| !x.is_empty())
                         .collect::<Vec<&str>>();
@@ -161,7 +162,7 @@ pub async fn overlays(msg: Message, state: State) -> anyhow::Result<()> {
       .url(&url)
       .color(0xfd_69_b3)
       .description(parsed_one)
-      .footer(EmbedFooterBuilder::new(&format!("Requested by {}", msg.author.name)))
+      .footer(EmbedFooterBuilder::new(format!("Requested by {}", msg.author.name)))
       .validate()?.build();
     state
       .http

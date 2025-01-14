@@ -50,7 +50,7 @@ pub async fn bug(msg: Message, number: Option<i32>, state: State) -> anyhow::Res
   }
   let res = state
             .request_client
-            .get(&format!("https://bugs.gentoo.org/rest/bug?id={bug_number}")).send().await?;
+            .get(format!("https://bugs.gentoo.org/rest/bug?id={bug_number}")).send().await?;
 
   let bugs: Bugs = res.json().await?;
   if let Some(bug) = bugs.bugs.first() {

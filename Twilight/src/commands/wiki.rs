@@ -45,7 +45,7 @@ pub async fn wiki(msg: Message, state: State) -> anyhow::Result<()> {
   }
 
   let res = state.request_client.get(
-    &format!("https://wiki.gentoo.org/api.php?action=opensearch&search={search_text}")).send().await?;
+    format!("https://wiki.gentoo.org/api.php?action=opensearch&search={search_text}")).send().await?;
 
   let (search_request, texts, _, links): Wiki = res.json().await?;
 

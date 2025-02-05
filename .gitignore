@@ -6,6 +6,7 @@
 *.yml
 *.txt
 *.json
+*.zip
 
 *.png
 *.w3g

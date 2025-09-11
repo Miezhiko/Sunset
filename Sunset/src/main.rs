@@ -3,7 +3,7 @@
 mod types;
 mod options;
 mod db;
-mod twilight;
+mod sunset;
 mod handler;
 mod commands;
 
@@ -11,7 +11,7 @@ mod commands;
 async fn main() -> anyhow::Result<()> {
   let iopts = options::get_ioptions()
                 .map_err(|e| anyhow!("Failed to parse Dhall config {e}"))?;
-  if let Err(err) = twilight::run(iopts).await {
+  if let Err(err) = sunset::run(iopts).await {
     panic!("Twilight died {err}")
   }
   Ok(())

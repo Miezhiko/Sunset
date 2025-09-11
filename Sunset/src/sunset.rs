@@ -6,6 +6,7 @@ use crate::types::common::{
 use crate::handler::handle_event;
 
 use std::sync::Arc;
+use std::collections::HashSet;
 
 use twilight_cache_inmemory::{
   DefaultInMemoryCache,
@@ -20,6 +21,7 @@ use twilight_gateway::{
 };
 
 use twilight_http::client::ClientBuilder;
+use twilight_model::id::{ Id, marker::GuildMarker };
 
 use tracing_subscriber::FmtSubscriber;
 
@@ -51,7 +53,15 @@ pub async fn run(opts: IOptions) -> anyhow::Result<()> {
                 .pool_max_idle_per_host(0)
                 .build()?;
 
-  let state = Arc::new(StateRef { http, request_client });
+  let allowed_guilds: HashSet<Id<GuildMarker>> = opts.allowed_guilds
+                .into_iter()
+                .map(|id| Id::new(id))
+                .collect();
+
+  let state = Arc::new(StateRef { http
+                                , request_client
+                                , allowed_guilds
+                                });
 
   tracing::info!("listening events");
 

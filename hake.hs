@@ -11,30 +11,30 @@ main = hake $ do
 
   "update | update dependencies" ∫ cargo ["update"]
 
-  twilightExecutable ♯
-    cargo <| "build" : buildFlagsTwilight False
+  sunsetExecutable ♯
+    cargo <| "build" : buildFlagsSunset False
 
-  "fat | build twilight  with fat LTO" ∫
-       cargo <| "build" : buildFlagsTwilight True
+  "fat | build Sunset  with fat LTO" ∫
+       cargo <| "build" : buildFlagsSunset True
 
   "install | install to system" ◉ [ "fat" ] ∰
-    cargo <| "install" : buildFlagsTwilight True
+    cargo <| "install" : buildFlagsSunset True
 
-  "test | build and test" ◉ [twilightExecutable] ∰ do
+  "test | build and test" ◉ [sunsetExecutable] ∰ do
     cargo ["test"]
     cargo ["clippy"]
-    rawSystem twilightExecutable ["--version"]
+    rawSystem sunsetExecutable ["--version"]
       >>= checkExitCode
 
-  "restart | restart services" ◉ [ twilightExecutable ] ∰
-    systemctl ["restart", appNameTwilight]
+  "restart | restart services" ◉ [ sunsetExecutable ] ∰
+    systemctl ["restart", appNameSunset]
 
-  "run | run twilight" ◉ [ twilightExecutable ] ∰ do
-    cargo . (("run" : buildFlagsTwilight False) ++) . ("--" :) =<< getHakeArgs
+  "run | run sunset" ◉ [ sunsetExecutable ] ∰ do
+    cargo . (("run" : buildFlagsSunset False) ++) . ("--" :) =<< getHakeArgs
 
  where
-  appNameTwilight ∷ String
-  appNameTwilight = "twilight"
+  appNameSunset ∷ String
+  appNameSunset = "sunset"
 
   targetPath ∷ FilePath
   targetPath = "target"
@@ -42,20 +42,20 @@ main = hake $ do
   buildPath ∷ FilePath
   buildPath = targetPath </> "release"
 
-  twilightFeatures ∷ [String]
-  twilightFeatures = [ ]
+  sunsetFeatures ∷ [String]
+  sunsetFeatures = [ ]
 
   fatArgs ∷ [String]
   fatArgs = [ "--profile"
             , "fat-release" ]
 
-  buildFlagsTwilight ∷ Bool -> [String]
-  buildFlagsTwilight fat =
-    let defaultFlags = [ "-p", appNameTwilight
+  buildFlagsSunset ∷ Bool -> [String]
+  buildFlagsSunset fat =
+    let defaultFlags = [ "-p", appNameSunset
                        , "--release", "--features"
-                       , intercalate "," twilightFeatures ]
+                       , intercalate "," sunsetFeatures ]
     in if fat then defaultFlags ++ fatArgs
               else defaultFlags
 
-  twilightExecutable ∷ FilePath
-  twilightExecutable = buildPath </> appNameTwilight
+  sunsetExecutable ∷ FilePath
+  sunsetExecutable = buildPath </> appNameSunset

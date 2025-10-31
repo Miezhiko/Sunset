@@ -1,6 +1,6 @@
 [package]
 name                = "sunset"
-version             = "0.0.15"
+version             = "0.0.16"
 authors             = [ "Miezhiko" ]
 repository          = "https://github.com/Miezhiko/Sunset"
 readme              = "README.md"

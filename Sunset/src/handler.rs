@@ -56,7 +56,7 @@ async fn help(msg: Message, state: State) -> anyhow::Result<()> {
 }
 
 fn contains_bug(text: &str) -> Option<i32> {
-  static RE: Lazy<Regex> = Lazy::new(|| Regex::new(r"(?i)bug (\d+)").unwrap());
+  static RE: Lazy<Regex> = Lazy::new(|| Regex::new(r"(?i)\bbug (\d+)").unwrap());
   let cap = RE.captures(text)?;
   if cap.len() > 1 {
     let number = cap[1].parse::<i32>().ok()?;

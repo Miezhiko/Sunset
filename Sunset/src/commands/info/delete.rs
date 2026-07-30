@@ -21,7 +21,7 @@ pub async fn delete(msg: Message, state: State) -> anyhow::Result<()> {
   }
 
   match sled_info::delete(&key).await {
-    Ok(_) => {
+    Ok(()) => {
       state
         .http
         .create_message(msg.channel_id)

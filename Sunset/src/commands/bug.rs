@@ -28,13 +28,9 @@ pub async fn bug(msg: Message, number: Option<i32>, state: State) -> anyhow::Res
     None      => {
       for if_num in msg.content.split_whitespace() {
         let try_num = if_num.parse::<i32>();
-        match try_num {
-          Ok(num) => {
-            bug_number = num;
-            break;
-          }, Err(_) => {
-            continue;
-          }
+        if let Ok(num) = try_num {
+          bug_number = num;
+          break;
         }
       }
     }

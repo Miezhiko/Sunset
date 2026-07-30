@@ -36,7 +36,7 @@ pub async fn overlays(msg: Message, state: State) -> anyhow::Result<()> {
     return Ok(())
   }
 
-  let url = format!("http://gpo.zugaina.org/Search?search={}", &search_string);
+  let url = format!("http://gpo.zugaina.org/Search?search={search_string}");
   let resp = state.request_client.get(&url)
                   .send()
                   .await?
@@ -57,7 +57,7 @@ pub async fn overlays(msg: Message, state: State) -> anyhow::Result<()> {
   result_vec.push(
     task::spawn_blocking(move || -> Vec<(String, String, String)> {
       let document = Document::from(&resp);
-      document.nip("a > div").iter().take(5).flat_map(|element| {
+      document.nip("a > div").iter().take(5).filter_map(|element| {
         let text = element.text();
         let (atom, description)   = text.split_once(' ')?;
         let (_category, pkgname)  = atom.split_once('/')?;
@@ -80,7 +80,7 @@ pub async fn overlays(msg: Message, state: State) -> anyhow::Result<()> {
     }
     for p in 0..pages {
       let page = p + 2;
-      let urlx = format!("https://gpo.zugaina.org/Search?search={}&use=&page={page}", &search_string);
+      let urlx = format!("https://gpo.zugaina.org/Search?search={search_string}&use=&page={page}");
       let respx = state.request_client.get(&urlx)
                                       .send()
                                       .await?
@@ -90,7 +90,7 @@ pub async fn overlays(msg: Message, state: State) -> anyhow::Result<()> {
       let page_results =
         task::spawn_blocking(move || -> Vec<(String, String, String)> {
           let document = Document::from(&respx);
-          document.nip("a > div").iter().take(5).flat_map(|element| {
+          document.nip("a > div").iter().take(5).filter_map(|element| {
             let text = element.text();
             let (atom, description)   = text.split_once(' ')?;
             let (_category, pkgname)  = atom.split_once('/')?;
@@ -108,7 +108,7 @@ pub async fn overlays(msg: Message, state: State) -> anyhow::Result<()> {
       }
       result_vec.push(page_results);
     }
-  };
+  }
 
   for tlv in &mut result_vec {
     top_level.append(tlv);
@@ -119,7 +119,7 @@ pub async fn overlays(msg: Message, state: State) -> anyhow::Result<()> {
     let pkg_resp = state.request_client.get(&pkg_url).send().await?.text().await?;
     let pkg_level = task::spawn_blocking(move || -> Vec<String> {
       let document = Document::from(&pkg_resp);
-      document.nip("div > li").iter().take(5).flat_map(|element| {
+      document.nip("div > li").iter().take(5).filter_map(|element| {
         let text  = element.text();
         #[allow(clippy::manual_pattern_char_comparison)]
         let split = text.split(|c| c == ' ' || c == '\n' || c == '\t')

@@ -1,13 +1,13 @@
 use anyhow::Result;
 
-use once_cell::sync::OnceCell;
+use std::sync::OnceLock;
 
 use tokio::sync::Mutex;
 
-static SLED_DB: OnceCell<Mutex<sled::Db>> = OnceCell::new();
+static SLED_DB: OnceLock<Mutex<sled::Db>> = OnceLock::new();
 static SLED: &str = "trees/info.sled";
 
-async fn init_db() -> Result<()> {
+fn init_db() -> Result<()> {
   if let Some(_existing_handle) = SLED_DB.get() {
     Ok(())
   } else {
@@ -20,7 +20,7 @@ async fn init_db() -> Result<()> {
 }
 
 pub async fn store(key: &str, value: &str) -> Result<()> {
-  init_db().await?;
+  init_db()?;
   if let Some(sled_mutex) = SLED_DB.get() {
     sled_mutex.lock().await.insert(key, value)?;
   }
@@ -28,7 +28,7 @@ pub async fn store(key: &str, value: &str) -> Result<()> {
 }
 
 pub async fn read(key: &str) -> Result<String> {
-  init_db().await?;
+  init_db()?;
   if let Some(sled_mutex) = SLED_DB.get() {
     let sled = sled_mutex.lock().await;
     match sled.get(key) {
@@ -45,7 +45,7 @@ pub async fn read(key: &str) -> Result<String> {
 }
 
 pub async fn list() -> Result<String> {
-  init_db().await?;
+  init_db()?;
   if let Some(sled_mutex) = SLED_DB.get() {
     let sled = sled_mutex.lock().await;
     let mut result = vec![];
@@ -62,7 +62,7 @@ pub async fn list() -> Result<String> {
 }
 
 pub async fn delete(key: &str) -> Result<()> {
-  init_db().await?;
+  init_db()?;
   if let Some(sled_mutex) = SLED_DB.get() {
     let sled = sled_mutex.lock().await;
     sled.remove(key)?;
@@ -73,7 +73,7 @@ pub async fn delete(key: &str) -> Result<()> {
 }
 
 pub async fn export() -> Result<Vec<(String, String)>> {
-  init_db().await?;
+  init_db()?;
   if let Some(sled_mutex) = SLED_DB.get() {
     let sled = sled_mutex.lock().await;
     let mut result = vec![];
@@ -100,7 +100,7 @@ pub async fn export() -> Result<Vec<(String, String)>> {
 }
 
 pub async fn import(data: Vec<(String, String)>) -> Result<()> {
-  init_db().await?;
+  init_db()?;
   for (key, value) in data {
     if let Some(sled_mutex) = SLED_DB.get() {
       sled_mutex.lock().await.insert(key, value)?;

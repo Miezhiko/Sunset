@@ -20,7 +20,8 @@ use std::{
   future::Future
 };
 
-use once_cell::sync::Lazy;
+use std::sync::LazyLock;
+
 use regex::Regex;
 
 use twilight_gateway::Event;
@@ -30,7 +31,7 @@ use twilight_model::{
   gateway::payload::incoming::MessageCreate
 };
 
-const ME: u64 = 510368731378089984;
+const ME: u64 = 510_368_731_378_089_984;
 
 fn spawn(fut: impl Future<Output = anyhow::Result<()>> + Send + 'static) {
   tokio::spawn(async move {
@@ -56,7 +57,7 @@ async fn help(msg: Message, state: State) -> anyhow::Result<()> {
 }
 
 fn contains_bug(text: &str) -> Option<i32> {
-  static RE: Lazy<Regex> = Lazy::new(|| Regex::new(r"(?i)\bbug (\d+)").unwrap());
+  static RE: LazyLock<Regex> = LazyLock::new(|| Regex::new(r"(?i)\bbug (\d+)").unwrap());
   let cap = RE.captures(text)?;
   if cap.len() > 1 {
     let number = cap[1].parse::<i32>().ok()?;
@@ -66,12 +67,12 @@ fn contains_bug(text: &str) -> Option<i32> {
   }
 }
 
-async fn handle_message(
+fn handle_message(
   msg: Box<MessageCreate>,
   state: &State
-) -> Result<(), Box<dyn Error + Send + Sync>> {
+) {
   if msg.author.bot {
-    return Ok(());
+    return;
   }
 
   match msg.content.split_whitespace().next() {
@@ -91,13 +92,11 @@ async fn handle_message(
           _category  => {}
         }
       } else if let Some(bug_number) = contains_bug(msg.content.as_str()) {
-        spawn(bug(msg.0, Some(bug_number), Arc::clone(state)))
+        spawn(bug(msg.0, Some(bug_number), Arc::clone(state)));
       }
     },
     None              => {}
-  };
-
-  Ok(())
+  }
 }
 
 pub async fn handle_event(
@@ -112,7 +111,10 @@ pub async fn handle_event(
       }
       Ok(())
     },
-    Event::MessageCreate(msg) => handle_message(msg, &state).await,
+    Event::MessageCreate(msg) => {
+      handle_message(msg, &state);
+      Ok(())
+    }
     Event::Ready(_) => {
       tracing::info!("Shard is ready");
       Ok(())

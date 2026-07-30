@@ -23,3 +23,15 @@ pub struct Bugs {
 }
 
 pub type Wiki = (String, Vec<String>, Vec<String>, Vec<String>);
+
+#[derive(Deserialize, Debug)]
+pub struct AtomEntry {
+  pub title: String,
+  pub updated: String
+}
+
+#[derive(Deserialize, Debug)]
+pub struct AtomFeed {
+  #[serde(default, rename = "entry")]
+  pub entries: Vec<AtomEntry>
+}

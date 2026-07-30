@@ -1,0 +1,1671 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Added packages in Gentoo.</title>
+  <id>https://packages.gentoo.org/</id>
+  <updated>2026-07-30T12:55:58Z</updated>
+  <subtitle>Added packages in Gentoo.</subtitle>
+  <link href="https://packages.gentoo.org/"></link>
+  <author>
+    <name>Gentoo Packages Database</name>
+  </author>
+  <entry>
+    <title>sys-kernel/gentoo-sources-6.18.41</title>
+    <updated>2026-07-30T12:19:18Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/sys-kernel/gentoo-sources</id>
+    <content type="html">sys-kernel/gentoo-sources-6.18.41 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=eb7053b11e7b196d821a55fa8b3f30a8ba76f9de&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/gentoo-sources" rel="alternate"></link>
+    <summary type="html">Full sources including the Gentoo patchset for the 6.18 kernel tree</summary>
+    <author>
+      <name>Mike Pagano</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/gentoo-sources-6.12.100</title>
+    <updated>2026-07-30T12:18:42Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/sys-kernel/gentoo-sources</id>
+    <content type="html">sys-kernel/gentoo-sources-6.12.100 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=b65744b43e51abb716378c8a22140527cc864d31&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/gentoo-sources" rel="alternate"></link>
+    <summary type="html">Full sources including the Gentoo patchset for the 6.12 kernel tree</summary>
+    <author>
+      <name>Mike Pagano</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/gentoo-sources-6.6.147</title>
+    <updated>2026-07-30T12:18:16Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/sys-kernel/gentoo-sources</id>
+    <content type="html">sys-kernel/gentoo-sources-6.6.147 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=e606aabd06cd253e567d2ae9d98a2af1c9da54a0&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/gentoo-sources" rel="alternate"></link>
+    <summary type="html">Full sources including the Gentoo patchset for the 6.6 kernel tree</summary>
+    <author>
+      <name>Mike Pagano</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/gentoo-sources-6.1.180</title>
+    <updated>2026-07-30T12:17:32Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/sys-kernel/gentoo-sources</id>
+    <content type="html">sys-kernel/gentoo-sources-6.1.180 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=b27645da034d7858d5f2c14701f75ee717af0a2f&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/gentoo-sources" rel="alternate"></link>
+    <summary type="html">Full sources including the Gentoo patchset for the 6.1 kernel tree</summary>
+    <author>
+      <name>Mike Pagano</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/gentoo-sources-6.18.41</title>
+    <updated>2026-07-30T12:19:18Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/sys-kernel/gentoo-sources</id>
+    <content type="html">sys-kernel/gentoo-sources-6.18.41 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=eb7053b11e7b196d821a55fa8b3f30a8ba76f9de&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/gentoo-sources" rel="alternate"></link>
+    <summary type="html">Full sources including the Gentoo patchset for the 6.18 kernel tree</summary>
+    <author>
+      <name>Mike Pagano</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/gentoo-sources-6.12.100</title>
+    <updated>2026-07-30T12:18:42Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/sys-kernel/gentoo-sources</id>
+    <content type="html">sys-kernel/gentoo-sources-6.12.100 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=b65744b43e51abb716378c8a22140527cc864d31&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/gentoo-sources" rel="alternate"></link>
+    <summary type="html">Full sources including the Gentoo patchset for the 6.12 kernel tree</summary>
+    <author>
+      <name>Mike Pagano</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/gentoo-sources-6.6.147</title>
+    <updated>2026-07-30T12:18:16Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/sys-kernel/gentoo-sources</id>
+    <content type="html">sys-kernel/gentoo-sources-6.6.147 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=e606aabd06cd253e567d2ae9d98a2af1c9da54a0&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/gentoo-sources" rel="alternate"></link>
+    <summary type="html">Full sources including the Gentoo patchset for the 6.6 kernel tree</summary>
+    <author>
+      <name>Mike Pagano</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/gentoo-sources-6.1.180</title>
+    <updated>2026-07-30T12:17:32Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/sys-kernel/gentoo-sources</id>
+    <content type="html">sys-kernel/gentoo-sources-6.1.180 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=b27645da034d7858d5f2c14701f75ee717af0a2f&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/gentoo-sources" rel="alternate"></link>
+    <summary type="html">Full sources including the Gentoo patchset for the 6.1 kernel tree</summary>
+    <author>
+      <name>Mike Pagano</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-fs/xcp-0.24.8-r1</title>
+    <updated>2026-07-30T11:59:46Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/sys-fs/xcp</id>
+    <content type="html">sys-fs/xcp-0.24.8-r1 is now available in Gentoo on these architectures: amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=8959dd0b14300e01de8654f3b05427bffde8978f&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-fs/xcp" rel="alternate"></link>
+    <summary type="html">A &amp;#39;cp&amp;#39; alternative with user-friendly feedback and performance optimisations</summary>
+    <author>
+      <name>Florian Schmaus</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-qt/qt-creator-20.0.1</title>
+    <updated>2026-07-30T11:56:14Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/dev-qt/qt-creator</id>
+    <content type="html">dev-qt/qt-creator-20.0.1 is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=e17219aee658ac5a572fdc08b85a690cc4162e51&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-qt/qt-creator" rel="alternate"></link>
+    <summary type="html">Lightweight IDE for C++/QML development centering around Qt</summary>
+    <author>
+      <name>Ionen Wolkens</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/vanilla-sources-6.6.147</title>
+    <updated>2026-07-30T11:39:23Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/sys-kernel/vanilla-sources</id>
+    <content type="html">sys-kernel/vanilla-sources-6.6.147 is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~loong ~m68k ~mips ~ppc ~ppc64 ~s390 ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=540959a31d5e7089f917ec2d558a2da764ce0893&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/vanilla-sources" rel="alternate"></link>
+    <summary type="html">Full sources for the Linux kernel</summary>
+    <author>
+      <name>Mike Pagano</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/vanilla-sources-6.18.41</title>
+    <updated>2026-07-30T11:39:07Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/sys-kernel/vanilla-sources</id>
+    <content type="html">sys-kernel/vanilla-sources-6.18.41 is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~m68k ~mips ~ppc ~ppc64 ~s390 ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=b09d0c486faaad1ea5abec3ef22dc71006741d56&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/vanilla-sources" rel="alternate"></link>
+    <summary type="html">Full sources for the Linux kernel</summary>
+    <author>
+      <name>Mike Pagano</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/vanilla-sources-6.12.100</title>
+    <updated>2026-07-30T11:38:54Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/sys-kernel/vanilla-sources</id>
+    <content type="html">sys-kernel/vanilla-sources-6.12.100 is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~loong ~m68k ~mips ~ppc ~ppc64 ~s390 ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=dc76f38c76f9654e21345eb6daeaea1325981881&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/vanilla-sources" rel="alternate"></link>
+    <summary type="html">Full sources for the Linux kernel</summary>
+    <author>
+      <name>Mike Pagano</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/vanilla-sources-6.1.180</title>
+    <updated>2026-07-30T11:38:39Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/sys-kernel/vanilla-sources</id>
+    <content type="html">sys-kernel/vanilla-sources-6.1.180 is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~loong ~m68k ~mips ~ppc ~ppc64 ~s390 ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=4ed79bfcbbfa926550752ed97baf2faecd38e9a5&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/vanilla-sources" rel="alternate"></link>
+    <summary type="html">Full sources for the Linux kernel</summary>
+    <author>
+      <name>Mike Pagano</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-text/zeal-0.9.1-r1</title>
+    <updated>2026-07-30T11:37:37Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-text/zeal</id>
+    <content type="html">app-text/zeal-0.9.1-r1 is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=d127a13dab6e91c9b7fb6be54c36473b7b3da523&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-text/zeal" rel="alternate"></link>
+    <summary type="html">Offline documentation browser inspired by Dash</summary>
+    <author>
+      <name>Mike Pagano</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-containers/devcontainer-0.88.0</title>
+    <updated>2026-07-30T11:11:51Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-containers/devcontainer</id>
+    <content type="html">app-containers/devcontainer-0.88.0 is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=0a8301ba366a2b37c721966daf917933f2a1103f&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-containers/devcontainer" rel="alternate"></link>
+    <summary type="html">Reference implementation of the Development Containers specification</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-emacs/org-contrib-0.8</title>
+    <updated>2026-07-30T11:11:50Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-emacs/org-contrib</id>
+    <content type="html">app-emacs/org-contrib-0.8 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~ppc ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=8d2be21452d294c93812be0012c0c037af5510cd&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-emacs/org-contrib" rel="alternate"></link>
+    <summary type="html">Contributed packages to Org</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-emacs/org-modern-1.15</title>
+    <updated>2026-07-30T11:11:50Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-emacs/org-modern</id>
+    <content type="html">app-emacs/org-modern-1.15 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=7755e68a0731d20dec2880e416051caebd70d8e9&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-emacs/org-modern" rel="alternate"></link>
+    <summary type="html">Modern style for your GNU Emacs Org buffers</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-emacs/zenburn-theme-2.11.0</title>
+    <updated>2026-07-30T11:11:50Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-emacs/zenburn-theme</id>
+    <content type="html">app-emacs/zenburn-theme-2.11.0 is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=1667c3e47d720f4a7bef281ec4ced8ac5986fbfb&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-emacs/zenburn-theme" rel="alternate"></link>
+    <summary type="html">Zenburn color theme for Emacs</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-emacs/corfu-2.11</title>
+    <updated>2026-07-30T11:11:50Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-emacs/corfu</id>
+    <content type="html">app-emacs/corfu-2.11 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=b5d3f3c2f4c90d164c69a37d55b6cbce45573794&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-emacs/corfu" rel="alternate"></link>
+    <summary type="html">Completion Overlay Region FUnction</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-emacs/clatter-0.6.0</title>
+    <updated>2026-07-30T11:11:49Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-emacs/clatter</id>
+    <content type="html">app-emacs/clatter-0.6.0 is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=d8b6d9a09785580bf7f141edbafec2c1b6c61210&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-emacs/clatter" rel="alternate"></link>
+    <summary type="html">An IRCv3-compliant IRC client for GNU Emacs</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-emacs/acp-0.13.1</title>
+    <updated>2026-07-30T11:11:48Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-emacs/acp</id>
+    <content type="html">app-emacs/acp-0.13.1 is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=2fdca6fd72c6b3cc76aa5735c8433233700e11e6&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-emacs/acp" rel="alternate"></link>
+    <summary type="html">Agent Client Protocol implementation for GNU Emacs</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-emacs/vertico-2.11</title>
+    <updated>2026-07-30T11:11:48Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-emacs/vertico</id>
+    <content type="html">app-emacs/vertico-2.11 is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=ebb8e5e78ea0b1840e526dd79f508f07f4225518&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-emacs/vertico" rel="alternate"></link>
+    <summary type="html">Vertical interactive completion</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-emacs/shell-maker-0.93.5</title>
+    <updated>2026-07-30T11:11:48Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-emacs/shell-maker</id>
+    <content type="html">app-emacs/shell-maker-0.93.5 is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=49bb78a82ddbe6b23c41b8f0020260902765e212&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-emacs/shell-maker" rel="alternate"></link>
+    <summary type="html">Interaction mode for making comint shells for GNU Emacs</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-emacs/projectile-3.3.0</title>
+    <updated>2026-07-30T11:11:47Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-emacs/projectile</id>
+    <content type="html">app-emacs/projectile-3.3.0 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=d7b4c91b9128abd1fd7b0c9bea39886a58ba7dcb&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-emacs/projectile" rel="alternate"></link>
+    <summary type="html">A project interaction library for Emacs</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-lang/boogie-3.5.7</title>
+    <updated>2026-07-30T11:11:46Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/dev-lang/boogie</id>
+    <content type="html">dev-lang/boogie-3.5.7 is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=a9c48f7a7a6e020f2e78f610259f25571e07d90d&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-lang/boogie" rel="alternate"></link>
+    <summary type="html">SMT-based program verifier</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-text/pandoc-bin-3.10.1</title>
+    <updated>2026-07-30T11:11:46Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-text/pandoc-bin</id>
+    <content type="html">app-text/pandoc-bin-3.10.1 is now available in Gentoo on these architectures: -* ~amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=d8850dfd8dbe97d45eea84d01789c12d80b522f3&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-text/pandoc-bin" rel="alternate"></link>
+    <summary type="html">Conversion between markup formats (binary package)</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-lang/eisl-5.68</title>
+    <updated>2026-07-30T11:11:45Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/dev-lang/eisl</id>
+    <content type="html">dev-lang/eisl-5.68 is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=52568b2759fc5f3529fd811a61d56899fb0f8867&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-lang/eisl" rel="alternate"></link>
+    <summary type="html">Interpreter and compiler compatible with the ISLisp standard</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>net-misc/gallery-dl-1.32.8</title>
+    <updated>2026-07-30T11:11:45Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/net-misc/gallery-dl</id>
+    <content type="html">net-misc/gallery-dl-1.32.8 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~hppa ~ppc ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=87f9d743bc3401ffc7f5d59477377c0592297e68&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/net-misc/gallery-dl" rel="alternate"></link>
+    <summary type="html">Download image galleries and collections from several image hosting sites</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>games-fps/ut2004-bonuspack-xp-1</title>
+    <updated>2026-07-30T10:32:32Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/games-fps/ut2004-bonuspack-xp</id>
+    <content type="html">games-fps/ut2004-bonuspack-xp-1 is now available in Gentoo on these architectures: ~amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=5100ffd8b60248391af5df5a30b9250e6b7aa9e8&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/games-fps/ut2004-bonuspack-xp" rel="alternate"></link>
+    <summary type="html">UT2004 XP Bonus Maps</summary>
+    <author>
+      <name>James Le Cuirot</name>
+    </author>
+  </entry>
+  <entry>
+    <title>games-fps/ut2004-bonuspack-cbp2-1-r5</title>
+    <updated>2026-07-30T10:32:32Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/games-fps/ut2004-bonuspack-cbp2</id>
+    <content type="html">games-fps/ut2004-bonuspack-cbp2-1-r5 is now available in Gentoo on these architectures: ~amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=1010ccfb8a69c8e10c53c1b2bd8d8eae15d361ae&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/games-fps/ut2004-bonuspack-cbp2" rel="alternate"></link>
+    <summary type="html">UT2004 Community Bonus Pack 2 Volume 1 and 2</summary>
+    <author>
+      <name>James Le Cuirot</name>
+    </author>
+  </entry>
+  <entry>
+    <title>games-fps/ut2004-bonuspack-cbp1-1-r5</title>
+    <updated>2026-07-30T10:32:32Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/games-fps/ut2004-bonuspack-cbp1</id>
+    <content type="html">games-fps/ut2004-bonuspack-cbp1-1-r5 is now available in Gentoo on these architectures: ~amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=0708c6802a610d4b0a1ab15bb4bbd7756be19fe1&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/games-fps/ut2004-bonuspack-cbp1" rel="alternate"></link>
+    <summary type="html">UT2004 Community Bonus Pack Volume 1</summary>
+    <author>
+      <name>James Le Cuirot</name>
+    </author>
+  </entry>
+  <entry>
+    <title>games-fps/ut2004-data-3369</title>
+    <updated>2026-07-30T10:32:32Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/games-fps/ut2004-data</id>
+    <content type="html">games-fps/ut2004-data-3369 is now available in Gentoo on these architectures: ~amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=492304d2874e484841c01934a2dc246967e0a48d&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/games-fps/ut2004-data" rel="alternate"></link>
+    <summary type="html">Data files for Unreal Tournament 2004</summary>
+    <author>
+      <name>James Le Cuirot</name>
+    </author>
+  </entry>
+  <entry>
+    <title>games-fps/ut2004-3374_pre23</title>
+    <updated>2026-07-30T10:32:31Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/games-fps/ut2004</id>
+    <content type="html">games-fps/ut2004-3374_pre23 is now available in Gentoo on these architectures: -* ~amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=b007fc673f3b453fbd7f8647efd9ed010d8389b4&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/games-fps/ut2004" rel="alternate"></link>
+    <summary type="html">Modern build of the Unreal Tournament 2004 engine</summary>
+    <author>
+      <name>James Le Cuirot</name>
+    </author>
+  </entry>
+  <entry>
+    <title>acct-user/unreal-0</title>
+    <updated>2026-07-30T10:17:05Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/acct-user/unreal</id>
+    <content type="html">acct-user/unreal-0 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=7a0fbb0ad8587346bfc421c7fd723f4f88505397&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/acct-user/unreal" rel="alternate"></link>
+    <summary type="html">User for the Unreal and Unreal Tournament games</summary>
+    <author>
+      <name>James Le Cuirot</name>
+    </author>
+  </entry>
+  <entry>
+    <title>acct-group/unreal-0</title>
+    <updated>2026-07-30T10:17:05Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/acct-group/unreal</id>
+    <content type="html">acct-group/unreal-0 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=93bc739769b339a4fb1f8818fc177bea2dbd4602&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/acct-group/unreal" rel="alternate"></link>
+    <summary type="html">Group for the Unreal and Unreal Tournament games</summary>
+    <author>
+      <name>James Le Cuirot</name>
+    </author>
+  </entry>
+  <entry>
+    <title>net-mail/courier-imap-6.0.5</title>
+    <updated>2026-07-30T07:32:02Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/net-mail/courier-imap</id>
+    <content type="html">net-mail/courier-imap-6.0.5 is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~loong ~mips ~ppc ~ppc64 ~s390 ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=9ae08425549918a3d1b52d190cb1d42991d521ce&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/net-mail/courier-imap" rel="alternate"></link>
+    <summary type="html">An IMAP daemon designed specifically for maildirs</summary>
+    <author>
+      <name>Alfredo Tupone</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-libs/libslz-1.3.1</title>
+    <updated>2026-07-30T07:14:03Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/dev-libs/libslz</id>
+    <content type="html">dev-libs/libslz-1.3.1 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~ppc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=4a3eeee685eb5f6cd1f998f4f39596262c95197c&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-libs/libslz" rel="alternate"></link>
+    <summary type="html">Stateless, zlib-compatible, and very fast compression library</summary>
+    <author>
+      <name>Christian Ruppert</name>
+    </author>
+  </entry>
+  <entry>
+    <title>net-proxy/haproxy-3.0.26</title>
+    <updated>2026-07-30T06:58:39Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/net-proxy/haproxy</id>
+    <content type="html">net-proxy/haproxy-3.0.26 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=3f904519010c08f811cc51544988297b12c18d38&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/net-proxy/haproxy" rel="alternate"></link>
+    <summary type="html">A TCP/HTTP reverse proxy for high availability environments</summary>
+    <author>
+      <name>Christian Ruppert</name>
+    </author>
+  </entry>
+  <entry>
+    <title>net-proxy/haproxy-3.2.22</title>
+    <updated>2026-07-30T06:58:39Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/net-proxy/haproxy</id>
+    <content type="html">net-proxy/haproxy-3.2.22 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=3f904519010c08f811cc51544988297b12c18d38&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/net-proxy/haproxy" rel="alternate"></link>
+    <summary type="html">A TCP/HTTP reverse proxy for high availability environments</summary>
+    <author>
+      <name>Christian Ruppert</name>
+    </author>
+  </entry>
+  <entry>
+    <title>net-proxy/haproxy-3.3.13</title>
+    <updated>2026-07-30T06:58:39Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/net-proxy/haproxy</id>
+    <content type="html">net-proxy/haproxy-3.3.13 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=3f904519010c08f811cc51544988297b12c18d38&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/net-proxy/haproxy" rel="alternate"></link>
+    <summary type="html">A TCP/HTTP reverse proxy for high availability environments</summary>
+    <author>
+      <name>Christian Ruppert</name>
+    </author>
+  </entry>
+  <entry>
+    <title>net-proxy/haproxy-3.4.3</title>
+    <updated>2026-07-30T06:58:39Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/net-proxy/haproxy</id>
+    <content type="html">net-proxy/haproxy-3.4.3 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=3f904519010c08f811cc51544988297b12c18d38&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/net-proxy/haproxy" rel="alternate"></link>
+    <summary type="html">A TCP/HTTP reverse proxy for high availability environments</summary>
+    <author>
+      <name>Christian Ruppert</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-admin/vaultwarden-1.37.1</title>
+    <updated>2026-07-30T05:09:01Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-admin/vaultwarden</id>
+    <content type="html">app-admin/vaultwarden-1.37.1 is now available in Gentoo on these architectures: ~amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=34158b4c9d4d927712f786bbfd7fe4fcc4ce9fd3&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-admin/vaultwarden" rel="alternate"></link>
+    <summary type="html">Unofficial Bitwarden compatible password manager</summary>
+    <author>
+      <name>Fabian Groffen</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/websockets-17.0</title>
+    <updated>2026-07-30T02:33:15Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/dev-python/websockets</id>
+    <content type="html">dev-python/websockets-17.0 is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~loong ~mips ~ppc ~ppc64 ~riscv ~s390 ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=d76590cbed91e0050762b150a1bca78f245e533c&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/websockets" rel="alternate"></link>
+    <summary type="html">Library for building WebSocket servers and clients in Python</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/uvicorn-0.52.0</title>
+    <updated>2026-07-30T02:33:15Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/dev-python/uvicorn</id>
+    <content type="html">dev-python/uvicorn-0.52.0 is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~loong ~mips ~ppc ~ppc64 ~riscv ~s390 ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=5d777ab8d79e1efdd5d1b96cab614599b894be86&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/uvicorn" rel="alternate"></link>
+    <summary type="html">Lightning-fast ASGI server implementation</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/django-crispy-forms-2.7</title>
+    <updated>2026-07-30T02:33:14Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/dev-python/django-crispy-forms</id>
+    <content type="html">dev-python/django-crispy-forms-2.7 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=6c3f23c470c9e37e4e20eca50447d9eb7a9c69a4&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/django-crispy-forms" rel="alternate"></link>
+    <summary type="html">DRY Django forms</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/rfc3161-client-1.0.8</title>
+    <updated>2026-07-30T02:33:13Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/dev-python/rfc3161-client</id>
+    <content type="html">dev-python/rfc3161-client-1.0.8 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~ppc ~ppc64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=ee06b939361515c5bef47b453a72cd48c71f81cd&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/rfc3161-client" rel="alternate"></link>
+    <summary type="html">An Opinionated Python RFC3161 Client</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/fastapi-0.141.1</title>
+    <updated>2026-07-30T02:33:13Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/dev-python/fastapi</id>
+    <content type="html">dev-python/fastapi-0.141.1 is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=e0fa0e6b8157765fb658beeb90b3aa956c63951e&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/fastapi" rel="alternate"></link>
+    <summary type="html">High performance framework, easy to learn, fast to code, ready for production</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/libcst-1.9.0</title>
+    <updated>2026-07-30T02:33:12Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/dev-python/libcst</id>
+    <content type="html">dev-python/libcst-1.9.0 is now available in Gentoo on these architectures: ~amd64 ~riscv. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=165931191d0d4582419dbec49c0644f966bf1a35&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/libcst" rel="alternate"></link>
+    <summary type="html">A concrete syntax tree with AST-like properties for Python</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/filelock-3.32.2</title>
+    <updated>2026-07-30T02:33:12Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/dev-python/filelock</id>
+    <content type="html">dev-python/filelock-3.32.2 is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~loong ~m68k ~mips ~ppc ~ppc64 ~riscv ~s390 ~sparc ~x86 ~x64-macos. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=816e7dc6eb30dfae47a65122369e79fdd01e7bca&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/filelock" rel="alternate"></link>
+    <summary type="html">A platform independent file lock for Python</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/stripe-15.4.0</title>
+    <updated>2026-07-30T02:33:12Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/dev-python/stripe</id>
+    <content type="html">dev-python/stripe-15.4.0 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=1250fa1c6c9f437a67787ecb884876a3d6f0e880&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/stripe" rel="alternate"></link>
+    <summary type="html">Stripe Python bindings</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-admin/awscli-1.45.59</title>
+    <updated>2026-07-30T02:33:11Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-admin/awscli</id>
+    <content type="html">app-admin/awscli-1.45.59 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~ppc ~ppc64 ~riscv ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=73267c6ae89e9ff266e4d22f247b1b481225f3db&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-admin/awscli" rel="alternate"></link>
+    <summary type="html">Universal Command Line Environment for AWS</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/boto3-1.43.59</title>
+    <updated>2026-07-30T02:33:11Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/dev-python/boto3</id>
+    <content type="html">dev-python/boto3-1.43.59 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~loong ~ppc ~ppc64 ~riscv ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=cc51ba54195cb9a630a2ae439e70343d5cbac2c9&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/boto3" rel="alternate"></link>
+    <summary type="html">The AWS SDK for Python</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/botocore-1.43.59</title>
+    <updated>2026-07-30T02:33:11Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/dev-python/botocore</id>
+    <content type="html">dev-python/botocore-1.43.59 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~loong ~ppc ~ppc64 ~riscv ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=cdb8b9ee78ad722eee21ebd559d1c0f04daa62db&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/botocore" rel="alternate"></link>
+    <summary type="html">Low-level, data-driven core of boto 3</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/wrapt-2.3.0</title>
+    <updated>2026-07-30T02:33:10Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/dev-python/wrapt</id>
+    <content type="html">dev-python/wrapt-2.3.0 is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~loong ~m68k ~mips ~ppc ~ppc64 ~riscv ~s390 ~sparc ~x86 ~x64-macos. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=dae7e0b72d1847412fe9611ecaccfe52aed8318c&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/wrapt" rel="alternate"></link>
+    <summary type="html">Module for decorators, wrappers and monkey patching</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>games-emulation/mame-0.288</title>
+    <updated>2026-07-30T02:01:06Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/games-emulation/mame</id>
+    <content type="html">games-emulation/mame-0.288 is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=21f0c7a8bee52f27ac326bc85adebc5eabe87857&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/games-emulation/mame" rel="alternate"></link>
+    <summary type="html">Multiple Arcade Machine Emulator</summary>
+    <author>
+      <name>Sebastian Pipping</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-go/gopls-0.22.0</title>
+    <updated>2026-07-30T01:49:56Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/dev-go/gopls</id>
+    <content type="html">dev-go/gopls-0.22.0 is now available in Gentoo on these architectures: amd64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=6dfe7111b6d2b2d57a2d26fd7a44b4525a295368&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-go/gopls" rel="alternate"></link>
+    <summary type="html">&amp;#34;Go please&amp;#34; is the official Go language server</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-shells/fzf-0.73.1</title>
+    <updated>2026-07-30T01:49:56Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-shells/fzf</id>
+    <content type="html">app-shells/fzf-0.73.1 is now available in Gentoo on these architectures: amd64 ~arm arm64 ~ppc64 ~riscv x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=dbf551a0793d42e95d9399cabe5aebade06c726b&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-shells/fzf" rel="alternate"></link>
+    <summary type="html">General-purpose command-line fuzzy finder, written in Golang</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-text/sigil-2.8.0</title>
+    <updated>2026-07-30T01:49:56Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-text/sigil</id>
+    <content type="html">app-text/sigil-2.8.0 is now available in Gentoo on these architectures: amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=197dc12a435f250fe513db3975fcde7515ba813b&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-text/sigil" rel="alternate"></link>
+    <summary type="html">Multi-platform WYSIWYG ebook editor for ePub format</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>www-servers/tomcat-11.0.24</title>
+    <updated>2026-07-30T01:49:55Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/www-servers/tomcat</id>
+    <content type="html">www-servers/tomcat-11.0.24 is now available in Gentoo on these architectures: amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=4c4ae632d6d6fc79be20dc9b14f9e6597610083c&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/www-servers/tomcat" rel="alternate"></link>
+    <summary type="html">Tomcat Servlet-6.1/JSP-4.0/EL-6.0/WebSocket-2.2/JASPIC-3.1 Container</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>www-servers/tomcat-9.0.120</title>
+    <updated>2026-07-30T01:49:54Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/www-servers/tomcat</id>
+    <content type="html">www-servers/tomcat-9.0.120 is now available in Gentoo on these architectures: amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=69e3e4c57d6e9df5e595357910e563d77e37001c&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/www-servers/tomcat" rel="alternate"></link>
+    <summary type="html">Tomcat Servlet-4.0/JSP-2.3/EL-3.0/WebSocket-1.1/JASPIC-1.1 Container</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-editors/featherpad-1.6.4</title>
+    <updated>2026-07-30T01:49:53Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-editors/featherpad</id>
+    <content type="html">app-editors/featherpad-1.6.4 is now available in Gentoo on these architectures: amd64 ~arm arm64 ~ppc ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=b2854651f79ec133e5c76ea26b1dd84326dc6231&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-editors/featherpad" rel="alternate"></link>
+    <summary type="html">Lightweight Qt6 Plain-Text Editor for Linux</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-go/gopls-0.22.0</title>
+    <updated>2026-07-30T01:49:56Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/dev-go/gopls</id>
+    <content type="html">dev-go/gopls-0.22.0 is now available in Gentoo on these architectures: amd64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=6dfe7111b6d2b2d57a2d26fd7a44b4525a295368&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-go/gopls" rel="alternate"></link>
+    <summary type="html">&amp;#34;Go please&amp;#34; is the official Go language server</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-go/delve-1.27.0</title>
+    <updated>2026-07-30T01:49:53Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/dev-go/delve</id>
+    <content type="html">dev-go/delve-1.27.0 is now available in Gentoo on these architectures: amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=466ab28862867753a0165557f53d21993d4969ee&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-go/delve" rel="alternate"></link>
+    <summary type="html">A source-level debugger for the Go programming language</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-shells/fzf-0.73.1</title>
+    <updated>2026-07-30T01:49:56Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-shells/fzf</id>
+    <content type="html">app-shells/fzf-0.73.1 is now available in Gentoo on these architectures: amd64 ~arm arm64 ~ppc64 ~riscv x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=dbf551a0793d42e95d9399cabe5aebade06c726b&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-shells/fzf" rel="alternate"></link>
+    <summary type="html">General-purpose command-line fuzzy finder, written in Golang</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>www-servers/tomcat-10.1.57</title>
+    <updated>2026-07-30T01:49:52Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/www-servers/tomcat</id>
+    <content type="html">www-servers/tomcat-10.1.57 is now available in Gentoo on these architectures: amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=23d7c3ee659f17b8cc9fb6a5cbfd874932837cb6&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/www-servers/tomcat" rel="alternate"></link>
+    <summary type="html">Tomcat Servlet-6.0/JSP-3.1/EL-5.0/WebSocket-2.1/JASPIC-3.0 Container</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-ruby/async-2.35.0</title>
+    <updated>2026-07-30T01:49:52Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/dev-ruby/async</id>
+    <content type="html">dev-ruby/async-2.35.0 is now available in Gentoo on these architectures: amd64 ~arm ~arm64 ~hppa ~ppc ~riscv ~sparc x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=5f9cca68e605a8129600f5835d01e123a1cf2c0b&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-ruby/async" rel="alternate"></link>
+    <summary type="html">A concurrency framework for Ruby</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-ruby/async-2.35.0</title>
+    <updated>2026-07-30T01:49:52Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/dev-ruby/async</id>
+    <content type="html">dev-ruby/async-2.35.0 is now available in Gentoo on these architectures: amd64 ~arm ~arm64 ~hppa ~ppc ~riscv ~sparc x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=5f9cca68e605a8129600f5835d01e123a1cf2c0b&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-ruby/async" rel="alternate"></link>
+    <summary type="html">A concurrency framework for Ruby</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-java/log4j-12-api-2.26.0</title>
+    <updated>2026-07-30T01:49:51Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/dev-java/log4j-12-api</id>
+    <content type="html">dev-java/log4j-12-api-2.26.0 is now available in Gentoo on these architectures: amd64 arm64 ppc64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=607ad601dc2e40278951e2ededcfe66ba027d923&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-java/log4j-12-api" rel="alternate"></link>
+    <summary type="html">The Apache Log4j 1.x Compatibility API</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-containers/cri-o-1.36.1-r1</title>
+    <updated>2026-07-30T00:45:27Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-containers/cri-o</id>
+    <content type="html">app-containers/cri-o-1.36.1-r1 is now available in Gentoo on these architectures: ~amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=ec644c6253ea55d56a39ef67695b7f36bb004447&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-containers/cri-o" rel="alternate"></link>
+    <summary type="html">OCI-based implementation of Kubernetes Container Runtime Interface</summary>
+    <author>
+      <name>Zac Medico</name>
+    </author>
+  </entry>
+  <entry>
+    <title>games-server/bedrock-server-1.26.36.1</title>
+    <updated>2026-07-29T21:05:39Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/games-server/bedrock-server</id>
+    <content type="html">games-server/bedrock-server-1.26.36.1 is now available in Gentoo on these architectures: -* amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=4cdc89871ebc9111d9cfd83f7846c5e30fe9d19c&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/games-server/bedrock-server" rel="alternate"></link>
+    <summary type="html">The official bedrock (non-java) based server for the sandbox video game</summary>
+    <author>
+      <name>Conrad Kostecki</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-db/mysqltuner-2.9.1</title>
+    <updated>2026-07-29T21:05:39Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-db/mysqltuner</id>
+    <content type="html">dev-db/mysqltuner-2.9.1 is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=5a6dae84f51945ffad3aa90fe043f32bd03b41d1&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-db/mysqltuner" rel="alternate"></link>
+    <summary type="html">Makes recommendations for increased performance and stability for MySQL</summary>
+    <author>
+      <name>Conrad Kostecki</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-db/mysqltuner-2.9.0</title>
+    <updated>2026-07-29T21:05:38Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-db/mysqltuner</id>
+    <content type="html">dev-db/mysqltuner-2.9.0 is now available in Gentoo on these architectures: amd64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=29d8533e37df720233a54fac55899ad0b406040e&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-db/mysqltuner" rel="alternate"></link>
+    <summary type="html">Makes recommendations for increased performance and stability for MySQL</summary>
+    <author>
+      <name>Conrad Kostecki</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-db/mysqltuner-2.9.0</title>
+    <updated>2026-07-29T21:05:38Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-db/mysqltuner</id>
+    <content type="html">dev-db/mysqltuner-2.9.0 is now available in Gentoo on these architectures: amd64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=29d8533e37df720233a54fac55899ad0b406040e&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-db/mysqltuner" rel="alternate"></link>
+    <summary type="html">Makes recommendations for increased performance and stability for MySQL</summary>
+    <author>
+      <name>Conrad Kostecki</name>
+    </author>
+  </entry>
+  <entry>
+    <title>net-im/spectrum2-2.2.1_p20260727</title>
+    <updated>2026-07-29T21:05:38Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/net-im/spectrum2</id>
+    <content type="html">net-im/spectrum2-2.2.1_p20260727 is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=77af5902dd34a3d39fdf52c1591cc525ee4ecdbb&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/net-im/spectrum2" rel="alternate"></link>
+    <summary type="html">An open source instant messaging transport</summary>
+    <author>
+      <name>Conrad Kostecki</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-util/flatpak-builder-1.4.10-r2</title>
+    <updated>2026-07-29T19:56:29Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-util/flatpak-builder</id>
+    <content type="html">dev-util/flatpak-builder-1.4.10-r2 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~ppc64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=fb016ad510ef763dd433fa977156c564b28b9a47&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-util/flatpak-builder" rel="alternate"></link>
+    <summary type="html">Tool to build flatpaks from source</summary>
+    <author>
+      <name>Zac Medico</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-shells/fzf-0.73.1</title>
+    <updated>2026-07-30T01:49:56Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-shells/fzf</id>
+    <content type="html">app-shells/fzf-0.73.1 is now available in Gentoo on these architectures: amd64 ~arm arm64 ~ppc64 ~riscv x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=dbf551a0793d42e95d9399cabe5aebade06c726b&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-shells/fzf" rel="alternate"></link>
+    <summary type="html">General-purpose command-line fuzzy finder, written in Golang</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-editors/featherpad-1.6.4</title>
+    <updated>2026-07-30T01:49:53Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-editors/featherpad</id>
+    <content type="html">app-editors/featherpad-1.6.4 is now available in Gentoo on these architectures: amd64 ~arm arm64 ~ppc ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=b2854651f79ec133e5c76ea26b1dd84326dc6231&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-editors/featherpad" rel="alternate"></link>
+    <summary type="html">Lightweight Qt6 Plain-Text Editor for Linux</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-ruby/digest-3.2.1</title>
+    <updated>2026-07-29T19:47:39Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-ruby/digest</id>
+    <content type="html">dev-ruby/digest-3.2.1 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~mips ppc ppc64 ~riscv ~s390 ~sparc x86 ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=b4d234867061c794ec052e301662fcdc846f97ff&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-ruby/digest" rel="alternate"></link>
+    <summary type="html">Provides a framework for message digest libraries</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-arch/7zip-26.02-r1</title>
+    <updated>2026-07-29T19:46:46Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/app-arch/7zip</id>
+    <content type="html">app-arch/7zip-26.02-r1 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ppc ppc64 ~riscv ~s390 ~sparc x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=f885ec7f82c4714f081a09f314cacc380f4e4230&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-arch/7zip" rel="alternate"></link>
+    <summary type="html">Free file archiver for extremely high compression</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/gentoo-kernel-modprep-6.1.179</title>
+    <updated>2026-07-29T19:37:36Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/sys-kernel/gentoo-kernel-modprep</id>
+    <content type="html">sys-kernel/gentoo-kernel-modprep-6.1.179 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=69d3493ed9a3db023f9e6db40ba6e6c5a173d394&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/gentoo-kernel-modprep" rel="alternate"></link>
+    <summary type="html">Minimal subset of gentoo-kernel-bin for building modules, for containers</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/gentoo-kernel-bin-6.1.179</title>
+    <updated>2026-07-29T19:37:36Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/sys-kernel/gentoo-kernel-bin</id>
+    <content type="html">sys-kernel/gentoo-kernel-bin-6.1.179 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=f9c4de9168324a3537655d922bbb7c588b1be447&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/gentoo-kernel-bin" rel="alternate"></link>
+    <summary type="html">Pre-built Linux kernel with Gentoo patches</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/gentoo-kernel-modprep-6.6.146</title>
+    <updated>2026-07-29T19:37:36Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/sys-kernel/gentoo-kernel-modprep</id>
+    <content type="html">sys-kernel/gentoo-kernel-modprep-6.6.146 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=31e143f44d169a99851df0d44944f8e35ed36fe3&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/gentoo-kernel-modprep" rel="alternate"></link>
+    <summary type="html">Minimal subset of gentoo-kernel-bin for building modules, for containers</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/gentoo-kernel-bin-6.6.146</title>
+    <updated>2026-07-29T19:37:35Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/sys-kernel/gentoo-kernel-bin</id>
+    <content type="html">sys-kernel/gentoo-kernel-bin-6.6.146 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=a6e318b694379ed1c51b84b3a6b13bfbec768c33&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/gentoo-kernel-bin" rel="alternate"></link>
+    <summary type="html">Pre-built Linux kernel with Gentoo patches</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/gentoo-kernel-modprep-6.12.99</title>
+    <updated>2026-07-29T19:37:35Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/sys-kernel/gentoo-kernel-modprep</id>
+    <content type="html">sys-kernel/gentoo-kernel-modprep-6.12.99 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=5ef03117b36ea9b2cd0c24a30d0ad0084b67f206&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/gentoo-kernel-modprep" rel="alternate"></link>
+    <summary type="html">Minimal subset of gentoo-kernel-bin for building modules, for containers</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/gentoo-kernel-bin-6.12.99</title>
+    <updated>2026-07-29T19:37:35Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/sys-kernel/gentoo-kernel-bin</id>
+    <content type="html">sys-kernel/gentoo-kernel-bin-6.12.99 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=1bae61ed01468cfaab31468675a98770078f66c3&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/gentoo-kernel-bin" rel="alternate"></link>
+    <summary type="html">Pre-built Linux kernel with Gentoo patches</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>xfce-base/xfce4-settings-4.20.5</title>
+    <updated>2026-07-29T19:37:35Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/xfce-base/xfce4-settings</id>
+    <content type="html">xfce-base/xfce4-settings-4.20.5 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~hppa ~loong ~ppc ~ppc64 ~riscv ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=23b67ab3538f705c091d49e0e8482dacdcd251d0&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/xfce-base/xfce4-settings" rel="alternate"></link>
+    <summary type="html">Configuration system for the Xfce desktop environment</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>xfce-base/tumbler-4.20.2</title>
+    <updated>2026-07-29T19:37:34Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/xfce-base/tumbler</id>
+    <content type="html">xfce-base/tumbler-4.20.2 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~loong ~ppc ~ppc64 ~riscv ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=1d714e7710de70941e2a72897c8ea643760f1810&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/xfce-base/tumbler" rel="alternate"></link>
+    <summary type="html">A thumbnail service for Thunar</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>xfce-base/xfce4-power-manager-4.20.1</title>
+    <updated>2026-07-29T19:37:34Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/xfce-base/xfce4-power-manager</id>
+    <content type="html">xfce-base/xfce4-power-manager-4.20.1 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~loong ~ppc ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=9b4484c5eb3090a94e7cb509cc81eec0060d9e0e&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/xfce-base/xfce4-power-manager" rel="alternate"></link>
+    <summary type="html">Power manager for the Xfce desktop environment</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>virtual/dist-kernel-6.1.179</title>
+    <updated>2026-07-29T19:37:34Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/virtual/dist-kernel</id>
+    <content type="html">virtual/dist-kernel-6.1.179 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~hppa ~loong ~ppc ~ppc64 ~riscv ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=98279b4506057bb3f5399a1df5ec1c1fa02bcf7e&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/virtual/dist-kernel" rel="alternate"></link>
+    <summary type="html">Virtual to depend on any Distribution Kernel</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/gentoo-kernel-6.1.179</title>
+    <updated>2026-07-29T19:37:34Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/sys-kernel/gentoo-kernel</id>
+    <content type="html">sys-kernel/gentoo-kernel-6.1.179 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~hppa ~loong ~ppc ~ppc64 ~riscv ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=c696c7c028a99e9d8be351a8a5ed1b8dc7514fe8&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/gentoo-kernel" rel="alternate"></link>
+    <summary type="html">Linux kernel built with Gentoo patches</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/vanilla-kernel-6.1.179</title>
+    <updated>2026-07-29T19:37:33Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/sys-kernel/vanilla-kernel</id>
+    <content type="html">sys-kernel/vanilla-kernel-6.1.179 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~hppa ~loong ~ppc ~ppc64 ~riscv ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=8665c15f5f3ed787690f249e70bfcd383fa8fa6a&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/vanilla-kernel" rel="alternate"></link>
+    <summary type="html">Linux kernel built from vanilla upstream sources</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>virtual/dist-kernel-6.6.146</title>
+    <updated>2026-07-29T19:37:33Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/virtual/dist-kernel</id>
+    <content type="html">virtual/dist-kernel-6.6.146 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~hppa ~loong ~ppc ~ppc64 ~riscv ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=608c3ed142e7ad9f6d8e39a8ec402527c55ab9b4&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/virtual/dist-kernel" rel="alternate"></link>
+    <summary type="html">Virtual to depend on any Distribution Kernel</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/gentoo-kernel-6.6.146</title>
+    <updated>2026-07-29T19:37:33Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/sys-kernel/gentoo-kernel</id>
+    <content type="html">sys-kernel/gentoo-kernel-6.6.146 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~hppa ~loong ~ppc ~ppc64 ~riscv ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=c312d78dafb2e7862057cb67d26aeada75dd20e9&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/gentoo-kernel" rel="alternate"></link>
+    <summary type="html">Linux kernel built with Gentoo patches</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/vanilla-kernel-6.6.146</title>
+    <updated>2026-07-29T19:37:33Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/sys-kernel/vanilla-kernel</id>
+    <content type="html">sys-kernel/vanilla-kernel-6.6.146 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~hppa ~loong ~ppc ~ppc64 ~riscv ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=deb19de8272cea7c0e16def4094d7e60c275f467&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/vanilla-kernel" rel="alternate"></link>
+    <summary type="html">Linux kernel built from vanilla upstream sources</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>virtual/dist-kernel-6.12.99</title>
+    <updated>2026-07-29T19:37:32Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/virtual/dist-kernel</id>
+    <content type="html">virtual/dist-kernel-6.12.99 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~hppa ~loong ~ppc ~ppc64 ~riscv ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=dbe12c7e767b8fb1513777875ed66961b2da5860&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/virtual/dist-kernel" rel="alternate"></link>
+    <summary type="html">Virtual to depend on any Distribution Kernel</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/gentoo-kernel-6.12.99</title>
+    <updated>2026-07-29T19:37:32Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/sys-kernel/gentoo-kernel</id>
+    <content type="html">sys-kernel/gentoo-kernel-6.12.99 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~hppa ~loong ~ppc ~ppc64 ~riscv ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=3c6bdf204687f843c93774447ac5481972cea761&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/gentoo-kernel" rel="alternate"></link>
+    <summary type="html">Linux kernel built with Gentoo patches</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/vanilla-kernel-6.12.99</title>
+    <updated>2026-07-29T19:37:32Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/sys-kernel/vanilla-kernel</id>
+    <content type="html">sys-kernel/vanilla-kernel-6.12.99 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~hppa ~loong ~ppc ~ppc64 ~riscv ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=00e2d6292f650d06712eeb41d4a083796dc879fc&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/vanilla-kernel" rel="alternate"></link>
+    <summary type="html">Linux kernel built from vanilla upstream sources</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>mail-filter/maildrop-4.0.4</title>
+    <updated>2026-07-29T19:02:11Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/mail-filter/maildrop</id>
+    <content type="html">mail-filter/maildrop-4.0.4 is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~ppc ~ppc64 ~s390 ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=fd6e0be3be26eb99fabd5c1d3aa986bcda0517c0&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/mail-filter/maildrop" rel="alternate"></link>
+    <summary type="html">Mail delivery agent/filter</summary>
+    <author>
+      <name>Alfredo Tupone</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sci-ml/huggingface_hub-1.3.7-r1</title>
+    <updated>2026-07-29T18:43:53Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/sci-ml/huggingface_hub</id>
+    <content type="html">sci-ml/huggingface_hub-1.3.7-r1 is now available in Gentoo on these architectures: ~amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=78ad5bd5ee7087ae3aea966ec9be5efc8620e8ad&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sci-ml/huggingface_hub" rel="alternate"></link>
+    <summary type="html">a client library to interact with the Hugging Face Hub</summary>
+    <author>
+      <name>Alfredo Tupone</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-apps/shadow-4.20.0</title>
+    <updated>2026-07-29T18:26:02Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/sys-apps/shadow</id>
+    <content type="html">sys-apps/shadow-4.20.0 is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~loong ~m68k ~mips ~ppc ~ppc64 ~riscv ~s390 ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=d70ba75f5f0e8fb32219263e42643537cf932582&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-apps/shadow" rel="alternate"></link>
+    <summary type="html">Utilities to deal with user accounts</summary>
+    <author>
+      <name>Mike Gilbert</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-apps/shadow-4.20.0</title>
+    <updated>2026-07-29T18:26:02Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/sys-apps/shadow</id>
+    <content type="html">sys-apps/shadow-4.20.0 is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~loong ~m68k ~mips ~ppc ~ppc64 ~riscv ~s390 ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=d70ba75f5f0e8fb32219263e42643537cf932582&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-apps/shadow" rel="alternate"></link>
+    <summary type="html">Utilities to deal with user accounts</summary>
+    <author>
+      <name>Mike Gilbert</name>
+    </author>
+  </entry>
+  <entry>
+    <title>net-libs/libwebsockets-5.0.0-r1</title>
+    <updated>2026-07-29T17:36:26Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/net-libs/libwebsockets</id>
+    <content type="html">net-libs/libwebsockets-5.0.0-r1 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~loong ~ppc ~ppc64 ~riscv ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=286e470450ea4c61634d07dcb2c085dcd40e2920&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/net-libs/libwebsockets" rel="alternate"></link>
+    <summary type="html">A flexible pure-C library for implementing network protocols</summary>
+    <author>
+      <name>Mike Pagano</name>
+    </author>
+  </entry>
+  <entry>
+    <title>xfce-base/xfce4-panel-4.20.8</title>
+    <updated>2026-07-29T16:38:21Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/xfce-base/xfce4-panel</id>
+    <content type="html">xfce-base/xfce4-panel-4.20.8 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~hppa ~loong ~mips ~ppc ~ppc64 ~riscv ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=09fce4e407249c8480473d428df2340ad9d552c5&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/xfce-base/xfce4-panel" rel="alternate"></link>
+    <summary type="html">Panel for the Xfce desktop environment</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>mail-mta/exim-4.99.5</title>
+    <updated>2026-07-29T16:11:21Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/mail-mta/exim</id>
+    <content type="html">mail-mta/exim-4.99.5 is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~ppc ~ppc64 ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=257a7a21da61d3f0cc299094afc139a42e7fe88b&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/mail-mta/exim" rel="alternate"></link>
+    <summary type="html">A highly configurable, drop-in replacement for sendmail</summary>
+    <author>
+      <name>Fabian Groffen</name>
+    </author>
+  </entry>
+  <entry>
+    <title>net-wireless/gnuradio-3.11_pre20260615-r1</title>
+    <updated>2026-07-29T13:51:54Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/net-wireless/gnuradio</id>
+    <content type="html">net-wireless/gnuradio-3.11_pre20260615-r1 is now available in Gentoo on these architectures: ~amd64 ~arm ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=904846ffc5a9a83ac366138763aa41744046467d&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/net-wireless/gnuradio" rel="alternate"></link>
+    <summary type="html">Toolkit that provides signal processing blocks to implement software radios</summary>
+    <author>
+      <name>Thomas Beierlein</name>
+    </author>
+  </entry>
+  <entry>
+    <title>net-vpn/vopono-0.10.19</title>
+    <updated>2026-07-29T13:29:44Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/net-vpn/vopono</id>
+    <content type="html">net-vpn/vopono-0.10.19 is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=9c956e9529e620d605fb9d5feb87875b0fc4b9b0&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/net-vpn/vopono" rel="alternate"></link>
+    <summary type="html">Launch applications via VPN tunnels using temporary network namespaces</summary>
+    <author>
+      <name>Joonas Niilola</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/zen-sources-7.1.5</title>
+    <updated>2026-07-29T13:29:44Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/sys-kernel/zen-sources</id>
+    <content type="html">sys-kernel/zen-sources-7.1.5 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=7ecf1d209477116cdb10bb858e13577501f21554&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/zen-sources" rel="alternate"></link>
+    <summary type="html">The Zen Kernel Live Sources</summary>
+    <author>
+      <name>Joonas Niilola</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sci-ml/ggml-0.17.0-r1</title>
+    <updated>2026-07-29T13:13:08Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/sci-ml/ggml</id>
+    <content type="html">sci-ml/ggml-0.17.0-r1 is now available in Gentoo on these architectures: ~amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=697b8e0fd81112d26900cd95af0a7dedb0270b24&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sci-ml/ggml" rel="alternate"></link>
+    <summary type="html">Tensor library for machine learning</summary>
+    <author>
+      <name>Alfredo Tupone</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sci-libs/pyshp-3.1.6</title>
+    <updated>2026-07-29T13:06:36Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/sci-libs/pyshp</id>
+    <content type="html">sci-libs/pyshp-3.1.6 is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=5566e0ff161b8a4372d1de4facdf1490f180ed22&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sci-libs/pyshp" rel="alternate"></link>
+    <summary type="html">Pure Python read/write support for ESRI Shapefile format</summary>
+    <author>
+      <name>Thomas Beierlein</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/uv-build-0.12.0</title>
+    <updated>2026-07-29T13:00:24Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-python/uv-build</id>
+    <content type="html">dev-python/uv-build-0.12.0 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~loong ~ppc ~ppc64 ~riscv ~s390 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=2bb30fd4c8521419c3f0e0ce81ff0386a803baaf&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/uv-build" rel="alternate"></link>
+    <summary type="html">PEP517 uv build backend</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>media-libs/libheif-1.23.1</title>
+    <updated>2026-07-29T12:43:10Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/media-libs/libheif</id>
+    <content type="html">media-libs/libheif-1.23.1 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~loong ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=8f0f063f6b4a76ec30383571894b6c742f3060db&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/media-libs/libheif" rel="alternate"></link>
+    <summary type="html">ISO/IEC 23008-12:2017 HEIF file format decoder and encoder</summary>
+    <author>
+      <name>Joonas Niilola</name>
+    </author>
+  </entry>
+  <entry>
+    <title>media-libs/libheif-1.23.1</title>
+    <updated>2026-07-29T12:43:10Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/media-libs/libheif</id>
+    <content type="html">media-libs/libheif-1.23.1 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~loong ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=8f0f063f6b4a76ec30383571894b6c742f3060db&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/media-libs/libheif" rel="alternate"></link>
+    <summary type="html">ISO/IEC 23008-12:2017 HEIF file format decoder and encoder</summary>
+    <author>
+      <name>Joonas Niilola</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sci-ml/ollama-0.32.4-r1</title>
+    <updated>2026-07-29T11:30:05Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/sci-ml/ollama</id>
+    <content type="html">sci-ml/ollama-0.32.4-r1 is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=8c8aa4e125a29e2de322471222c952b0279fd5c1&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sci-ml/ollama" rel="alternate"></link>
+    <summary type="html">Get up and running with Llama 3, Mistral, Gemma, and other language models</summary>
+    <author>
+      <name>Alfredo Tupone</name>
+    </author>
+  </entry>
+  <entry>
+    <title>mail-client/thunderbird-bin-153.0.1</title>
+    <updated>2026-07-29T11:16:51Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/mail-client/thunderbird-bin</id>
+    <content type="html">mail-client/thunderbird-bin-153.0.1 is now available in Gentoo on these architectures: -* amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=28f8ea7bf5b2f05e487a1443f1d65cb42912e666&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/mail-client/thunderbird-bin" rel="alternate"></link>
+    <summary type="html">Thunderbird Mail Client</summary>
+    <author>
+      <name>Joonas Niilola</name>
+    </author>
+  </entry>
+  <entry>
+    <title>mail-client/thunderbird-153.0.1</title>
+    <updated>2026-07-29T11:16:51Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/mail-client/thunderbird</id>
+    <content type="html">mail-client/thunderbird-153.0.1 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~loong ~ppc64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=562cfba4b953be911dedb657d8318d9b2782c4b8&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/mail-client/thunderbird" rel="alternate"></link>
+    <summary type="html">Thunderbird Mail Client</summary>
+    <author>
+      <name>Joonas Niilola</name>
+    </author>
+  </entry>
+  <entry>
+    <title>mail-client/thunderbird-l10n-153.0.1</title>
+    <updated>2026-07-29T11:16:51Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/mail-client/thunderbird-l10n</id>
+    <content type="html">mail-client/thunderbird-l10n-153.0.1 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~loong ~ppc64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=165a6e15f7667ae1ce5102c0addda84ffeca7400&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/mail-client/thunderbird-l10n" rel="alternate"></link>
+    <summary type="html">Thunderbird mail client&amp;#39;s translation files</summary>
+    <author>
+      <name>Joonas Niilola</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/cachebox-6.2.1</title>
+    <updated>2026-07-29T10:56:01Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-python/cachebox</id>
+    <content type="html">dev-python/cachebox-6.2.1 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=d53932346a9294e9e6fa69f233aaf3448adc20eb&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/cachebox" rel="alternate"></link>
+    <summary type="html">The fastest memoizing and caching Python library written in Rust</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/deepdiff-9.1.0</title>
+    <updated>2026-07-29T10:56:00Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-python/deepdiff</id>
+    <content type="html">dev-python/deepdiff-9.1.0 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=78ae8c250c401e094962be3f54a946686c68995b&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/deepdiff" rel="alternate"></link>
+    <summary type="html">A library for comparing dictionaries, iterables, strings and other objects</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-db/duckdb-1.5.5</title>
+    <updated>2026-07-29T09:42:02Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-db/duckdb</id>
+    <content type="html">dev-db/duckdb-1.5.5 is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=883b4e84cba39815a374d5275b980766fb243d0b&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-db/duckdb" rel="alternate"></link>
+    <summary type="html">high-performance analytical database system</summary>
+    <author>
+      <name>Patrick Lauer</name>
+    </author>
+  </entry>
+  <entry>
+    <title>media-gfx/graphviz-15.1.0</title>
+    <updated>2026-07-29T09:20:20Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/media-gfx/graphviz</id>
+    <content type="html">media-gfx/graphviz-15.1.0 is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~loong ~m68k ~mips ~ppc ~ppc64 ~riscv ~s390 ~sparc ~x86 ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=afad21c293bb6955a602b05f127939f1b34e551f&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/media-gfx/graphviz" rel="alternate"></link>
+    <summary type="html">Open Source Graph Visualization Software</summary>
+    <author>
+      <name>David Seifert</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-cpp/catch-9999</title>
+    <updated>2026-07-29T09:20:20Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-cpp/catch</id>
+    <content type="html">dev-cpp/catch-9999 is now available in Gentoo on these architectures: . See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=7b614eb51a39774d43cab1d8d3fcf2334d8e7842&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-cpp/catch" rel="alternate"></link>
+    <summary type="html">Modern C++ header-only framework for unit-tests</summary>
+    <author>
+      <name>David Seifert</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-cpp/catch-3.15.3</title>
+    <updated>2026-07-29T09:20:19Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-cpp/catch</id>
+    <content type="html">dev-cpp/catch-3.15.3 is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~loong ~mips ~ppc ~ppc64 ~riscv ~s390 ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=14e187abdfa004e7c9369e7ad7e326aec74bbeff&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-cpp/catch" rel="alternate"></link>
+    <summary type="html">Modern C++ header-only framework for unit-tests</summary>
+    <author>
+      <name>David Seifert</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-build/b2-5.5.3</title>
+    <updated>2026-07-29T09:20:18Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-build/b2</id>
+    <content type="html">dev-build/b2-5.5.3 is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~loong ~m68k ~mips ~ppc ~ppc64 ~riscv ~s390 ~sparc ~x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=293d09795277d6940548c6d4f8496a3a986f1562&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-build/b2" rel="alternate"></link>
+    <summary type="html">A system for large project software construction, simple to use and powerful</summary>
+    <author>
+      <name>David Seifert</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-crypt/yubioath-flutter-bin-7.4.1</title>
+    <updated>2026-07-29T09:20:18Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/app-crypt/yubioath-flutter-bin</id>
+    <content type="html">app-crypt/yubioath-flutter-bin-7.4.1 is now available in Gentoo on these architectures: -* ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=ec888ffa39130dc23b2415161fcdfd18a2b169e0&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-crypt/yubioath-flutter-bin" rel="alternate"></link>
+    <summary type="html">Yubico Authenticator for TOTP</summary>
+    <author>
+      <name>David Seifert</name>
+    </author>
+  </entry>
+  <entry>
+    <title>www-client/firefox-153.0.1</title>
+    <updated>2026-07-29T08:54:43Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/www-client/firefox</id>
+    <content type="html">www-client/firefox-153.0.1 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~loong ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=faa29e3dbb123741c37b4f2a91fb88d55574ab5d&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/www-client/firefox" rel="alternate"></link>
+    <summary type="html">Firefox Web Browser</summary>
+    <author>
+      <name>Joonas Niilola</name>
+    </author>
+  </entry>
+  <entry>
+    <title>www-client/firefox-l10n-153.0.1</title>
+    <updated>2026-07-29T08:54:43Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/www-client/firefox-l10n</id>
+    <content type="html">www-client/firefox-l10n-153.0.1 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~loong ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=a224a129b582709e2c93c8ca4b4fdcb5303ebd35&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/www-client/firefox-l10n" rel="alternate"></link>
+    <summary type="html">Firefox Web Browser&amp;#39;s translation files</summary>
+    <author>
+      <name>Joonas Niilola</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/cachebox-6.2.1</title>
+    <updated>2026-07-29T10:56:01Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-python/cachebox</id>
+    <content type="html">dev-python/cachebox-6.2.1 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=d53932346a9294e9e6fa69f233aaf3448adc20eb&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/cachebox" rel="alternate"></link>
+    <summary type="html">The fastest memoizing and caching Python library written in Rust</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/deepdiff-9.1.0</title>
+    <updated>2026-07-29T10:56:00Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-python/deepdiff</id>
+    <content type="html">dev-python/deepdiff-9.1.0 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=78ae8c250c401e094962be3f54a946686c68995b&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/deepdiff" rel="alternate"></link>
+    <summary type="html">A library for comparing dictionaries, iterables, strings and other objects</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-ruby/digest-3.2.1</title>
+    <updated>2026-07-29T19:47:39Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-ruby/digest</id>
+    <content type="html">dev-ruby/digest-3.2.1 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~mips ppc ppc64 ~riscv ~s390 ~sparc x86 ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=b4d234867061c794ec052e301662fcdc846f97ff&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-ruby/digest" rel="alternate"></link>
+    <summary type="html">Provides a framework for message digest libraries</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-ruby/ffi-1.17.3</title>
+    <updated>2026-07-29T08:20:18Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-ruby/ffi</id>
+    <content type="html">dev-ruby/ffi-1.17.3 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ppc ppc64 ~riscv ~s390 ~sparc x86 ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=0616881a454b532241455911bcdb21f9e2181b7a&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-ruby/ffi" rel="alternate"></link>
+    <summary type="html">Ruby extension for programmatically loading dynamic libraries</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-ruby/forwardable-1.4.0</title>
+    <updated>2026-07-29T08:20:16Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-ruby/forwardable</id>
+    <content type="html">dev-ruby/forwardable-1.4.0 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~mips ppc ppc64 ~riscv ~s390 ~sparc x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=c8b6b8345f0ec0d41161d993a6fa21a989210620&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-ruby/forwardable" rel="alternate"></link>
+    <summary type="html">Provides delegation of specified methods to a designated object</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-ruby/irb-1.16.0</title>
+    <updated>2026-07-29T08:20:15Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-ruby/irb</id>
+    <content type="html">dev-ruby/irb-1.16.0 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~mips ppc ppc64 ~riscv ~s390 ~sparc ~x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=dafbe0ccdb29ca4fb6af04595a86d0216ece61cc&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-ruby/irb" rel="alternate"></link>
+    <summary type="html">Interactive Ruby command-line tool for REPL (Read Eval Print Loop)</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-ruby/json-2.19.4</title>
+    <updated>2026-07-29T08:20:14Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-ruby/json</id>
+    <content type="html">dev-ruby/json-2.19.4 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~mips ppc ppc64 ~riscv ~s390 ~sparc x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=101ad47ab9bd1aefd417b04c0f17538d3f7d6689&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-ruby/json" rel="alternate"></link>
+    <summary type="html">A JSON implementation as a Ruby extension</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-ruby/reline-0.6.3</title>
+    <updated>2026-07-29T08:20:13Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-ruby/reline</id>
+    <content type="html">dev-ruby/reline-0.6.3 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~mips ppc ppc64 ~riscv ~s390 ~sparc x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=89559076e9240097575a27bf00bdc37de50e91f3&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-ruby/reline" rel="alternate"></link>
+    <summary type="html">Alternative readline implementation in pure Ruby</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-ruby/stringio-3.2.0</title>
+    <updated>2026-07-29T08:20:12Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-ruby/stringio</id>
+    <content type="html">dev-ruby/stringio-3.2.0 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~mips ppc ppc64 ~riscv ~s390 ~sparc x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=3f1435dfc4c624753b4904bd73913d482dfac295&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-ruby/stringio" rel="alternate"></link>
+    <summary type="html">Pseudo IO class from/to String</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-ruby/time-0.4.2</title>
+    <updated>2026-07-29T08:20:11Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-ruby/time</id>
+    <content type="html">dev-ruby/time-0.4.2 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~mips ppc ppc64 ~riscv ~s390 ~sparc ~x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=f57e806e2c9783bb92dc2b5de7c907adb4194776&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-ruby/time" rel="alternate"></link>
+    <summary type="html">Extends the Time class with methods for parsing and conversion</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-util/cproto-4.8a</title>
+    <updated>2026-07-29T08:19:50Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-util/cproto</id>
+    <content type="html">dev-util/cproto-4.8a is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~ppc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=38edab3f14729bd319217e726f7c8ba270c34c5d&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-util/cproto" rel="alternate"></link>
+    <summary type="html">Generate C function prototypes from C source code</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>net-mail/stalwart-cli-1.0.12</title>
+    <updated>2026-07-29T07:46:49Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/net-mail/stalwart-cli</id>
+    <content type="html">net-mail/stalwart-cli-1.0.12 is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=9428ef33d88cf355f5b1319bb9ab292e53960b43&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/net-mail/stalwart-cli" rel="alternate"></link>
+    <summary type="html">Stalwart Mail Server command line utility</summary>
+    <author>
+      <name>Thomas Raschbacher</name>
+    </author>
+  </entry>
+  <entry>
+    <title>net-mail/stalwart-mail-0.16.15</title>
+    <updated>2026-07-29T07:46:48Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/net-mail/stalwart-mail</id>
+    <content type="html">net-mail/stalwart-mail-0.16.15 is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=53b1ebba60c7777df32a4e0d82f291ebcbcfd324&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/net-mail/stalwart-mail" rel="alternate"></link>
+    <summary type="html">Stalwart Mail Server</summary>
+    <author>
+      <name>Thomas Raschbacher</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-ruby/tsort-0.2.0-r1</title>
+    <updated>2026-07-29T06:04:56Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-ruby/tsort</id>
+    <content type="html">dev-ruby/tsort-0.2.0-r1 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~mips ppc ppc64 ~riscv ~s390 ~sparc x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=c7124583ba627b4544a23ef029cdf191a601d5e5&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-ruby/tsort" rel="alternate"></link>
+    <summary type="html">Topological sorting using Tarjan&amp;#39;s algorithm</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-ruby/erb-6.0.6</title>
+    <updated>2026-07-29T06:04:56Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-ruby/erb</id>
+    <content type="html">dev-ruby/erb-6.0.6 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~mips ppc ppc64 ~riscv ~s390 ~sparc x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=c9ac4c7c0a41b4a35380fe3ff9574a7ff9b132ce&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-ruby/erb" rel="alternate"></link>
+    <summary type="html">An easy to use but powerful templating system for Ruby</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-ruby/rdoc-7.1.0</title>
+    <updated>2026-07-29T06:04:55Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-ruby/rdoc</id>
+    <content type="html">dev-ruby/rdoc-7.1.0 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~mips ppc ppc64 ~riscv ~s390 ~sparc x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=21515ac6f065d21a05811746f6f27c172b19fafb&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-ruby/rdoc" rel="alternate"></link>
+    <summary type="html">An extended version of the RDoc library from Ruby 1.8</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>www-client/firefox-bin-153.0.1</title>
+    <updated>2026-07-29T06:00:18Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/www-client/firefox-bin</id>
+    <content type="html">www-client/firefox-bin-153.0.1 is now available in Gentoo on these architectures: -* amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=f8225171509951ce4ccc09e426dc31f87a85ab4f&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/www-client/firefox-bin" rel="alternate"></link>
+    <summary type="html">Firefox Web Browser</summary>
+    <author>
+      <name>Joonas Niilola</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-forensics/sleuthkit-4.12.1-r3</title>
+    <updated>2026-07-29T04:57:57Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/app-forensics/sleuthkit</id>
+    <content type="html">app-forensics/sleuthkit-4.12.1-r3 is now available in Gentoo on these architectures: amd64 ~hppa ppc x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=0ad44acefb5af70ba73f40eacf8efc5b031dd8cf&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-forensics/sleuthkit" rel="alternate"></link>
+    <summary type="html">A collection of file system and media management forensic analysis tools</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-forensics/sleuthkit-4.12.1-r3</title>
+    <updated>2026-07-29T04:57:57Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/app-forensics/sleuthkit</id>
+    <content type="html">app-forensics/sleuthkit-4.12.1-r3 is now available in Gentoo on these architectures: amd64 ~hppa ppc x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=0ad44acefb5af70ba73f40eacf8efc5b031dd8cf&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-forensics/sleuthkit" rel="alternate"></link>
+    <summary type="html">A collection of file system and media management forensic analysis tools</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-forensics/sleuthkit-4.12.1-r3</title>
+    <updated>2026-07-29T04:57:57Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/app-forensics/sleuthkit</id>
+    <content type="html">app-forensics/sleuthkit-4.12.1-r3 is now available in Gentoo on these architectures: amd64 ~hppa ppc x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=0ad44acefb5af70ba73f40eacf8efc5b031dd8cf&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-forensics/sleuthkit" rel="alternate"></link>
+    <summary type="html">A collection of file system and media management forensic analysis tools</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-java/log4j-core-2.26.0</title>
+    <updated>2026-07-29T04:09:37Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-java/log4j-core</id>
+    <content type="html">dev-java/log4j-core-2.26.0 is now available in Gentoo on these architectures: amd64 arm64 ppc64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=090e4fa9549e61060da45fcb8ab74f2125092256&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-java/log4j-core" rel="alternate"></link>
+    <summary type="html">The Apache Log4j Implementation</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/gitpython-3.1.57</title>
+    <updated>2026-07-29T03:48:38Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-python/gitpython</id>
+    <content type="html">dev-python/gitpython-3.1.57 is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~mips ppc ppc64 ~riscv ~s390 ~sparc x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=2db1b197c5abc90e0b4b78239fa5a23384725cd9&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/gitpython" rel="alternate"></link>
+    <summary type="html">Library used to interact with Git repositories</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/pbs-installer-2026.7.18</title>
+    <updated>2026-07-29T03:48:37Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-python/pbs-installer</id>
+    <content type="html">dev-python/pbs-installer-2026.7.18 is now available in Gentoo on these architectures: amd64 arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=9a964a231a9ed8dfb1b28a928710c4d1bdf90fe7&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/pbs-installer" rel="alternate"></link>
+    <summary type="html">Installer for Python Build Standalone</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/guessit-4.0.2</title>
+    <updated>2026-07-29T03:48:36Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/dev-python/guessit</id>
+    <content type="html">dev-python/guessit-4.0.2 is now available in Gentoo on these architectures: amd64 ~arm arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=3e3f89ed111fd65d34f9c4dbd819c949fd718a7e&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/guessit" rel="alternate"></link>
+    <summary type="html">Python library for guessing information from video filenames</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+</feed>

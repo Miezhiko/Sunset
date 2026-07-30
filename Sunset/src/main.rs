@@ -6,6 +6,7 @@ mod db;
 mod sunset;
 mod handler;
 mod commands;
+mod status;
 
 #[tokio::main(worker_threads=8)]
 async fn main() -> anyhow::Result<()> {

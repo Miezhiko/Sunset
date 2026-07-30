@@ -1,0 +1,2760 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Added packages in Gentoo.</title>
+  <id>https://packages.gentoo.org/</id>
+  <updated>2026-07-30T12:52:48Z</updated>
+  <subtitle>Added packages in Gentoo.</subtitle>
+  <link href="https://packages.gentoo.org/"></link>
+  <author>
+    <name>Gentoo Packages Database</name>
+  </author>
+  <entry>
+    <title>games-fps/ut2004-bonuspack-xp</title>
+    <updated>2026-07-30T10:32:32Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/games-fps/ut2004-bonuspack-xp</id>
+    <content type="html">games-fps/ut2004-bonuspack-xp is now available in Gentoo on these architectures: ~amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=5100ffd8b60248391af5df5a30b9250e6b7aa9e8&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/games-fps/ut2004-bonuspack-xp" rel="alternate"></link>
+    <summary type="html">UT2004 XP Bonus Maps</summary>
+    <author>
+      <name>James Le Cuirot</name>
+    </author>
+  </entry>
+  <entry>
+    <title>acct-user/unreal</title>
+    <updated>2026-07-30T10:17:05Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/acct-user/unreal</id>
+    <content type="html">acct-user/unreal is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=7a0fbb0ad8587346bfc421c7fd723f4f88505397&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/acct-user/unreal" rel="alternate"></link>
+    <summary type="html">User for the Unreal and Unreal Tournament games</summary>
+    <author>
+      <name>James Le Cuirot</name>
+    </author>
+  </entry>
+  <entry>
+    <title>acct-group/unreal</title>
+    <updated>2026-07-30T10:17:05Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/acct-group/unreal</id>
+    <content type="html">acct-group/unreal is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=93bc739769b339a4fb1f8818fc177bea2dbd4602&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/acct-group/unreal" rel="alternate"></link>
+    <summary type="html">Group for the Unreal and Unreal Tournament games</summary>
+    <author>
+      <name>James Le Cuirot</name>
+    </author>
+  </entry>
+  <entry>
+    <title>games-emulation/mame</title>
+    <updated>2026-07-30T02:01:06Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/games-emulation/mame</id>
+    <content type="html">games-emulation/mame is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=21f0c7a8bee52f27ac326bc85adebc5eabe87857&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/games-emulation/mame" rel="alternate"></link>
+    <summary type="html">Multiple Arcade Machine Emulator</summary>
+    <author>
+      <name>Sebastian Pipping</name>
+    </author>
+  </entry>
+  <entry>
+    <title>x11-wm/gnome-flashback-herbstluftwm</title>
+    <updated>2026-07-28T11:56:00Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-28:/package/x11-wm/gnome-flashback-herbstluftwm</id>
+    <content type="html">x11-wm/gnome-flashback-herbstluftwm is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=1c9916c857a618872122fa9eee892ecbd487dd92&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/x11-wm/gnome-flashback-herbstluftwm" rel="alternate"></link>
+    <summary type="html">GNOME Herbstluftwm session (via GNOME Flashback)</summary>
+    <author>
+      <name>Florian Schmaus</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/cachebox</title>
+    <updated>2026-07-28T06:29:38Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-28:/package/dev-python/cachebox</id>
+    <content type="html">dev-python/cachebox is now available in Gentoo on these architectures: ~amd64 ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=ae41f8407e54201a4d8cffd07674eca82751e1dc&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/cachebox" rel="alternate"></link>
+    <summary type="html">The fastest memoizing and caching Python library written in Rust</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>media-libs/libmysofa</title>
+    <updated>2026-07-21T23:31:07Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-21:/package/media-libs/libmysofa</id>
+    <content type="html">media-libs/libmysofa is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=77ce3f143e598b947983596487d9f751ebbdb7dc&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/media-libs/libmysofa" rel="alternate"></link>
+    <summary type="html">Library for reading AES SOFA (Spatially Oriented Format for Acoustics) files</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-libs/kirigami-app-components</title>
+    <updated>2026-07-28T20:04:33Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-28:/package/dev-libs/kirigami-app-components</id>
+    <content type="html">dev-libs/kirigami-app-components is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=5b31a5446eea33c0a2c7954d6d9c6f60b41778a6&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-libs/kirigami-app-components" rel="alternate"></link>
+    <summary type="html">Kirigami addons and modules necessary to do a full featured KDE application</summary>
+    <author>
+      <name>Andreas Sturmlechner</name>
+    </author>
+  </entry>
+  <entry>
+    <title>net-mail/offlineimap3</title>
+    <updated>2026-07-21T08:19:31Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-21:/package/net-mail/offlineimap3</id>
+    <content type="html">net-mail/offlineimap3 is now available in Gentoo on these architectures: . See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=b4778d846fa274e64d02469e7efad65fd44ce221&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/net-mail/offlineimap3" rel="alternate"></link>
+    <summary type="html">Powerful IMAP/Maildir synchronization and reader support</summary>
+    <author>
+      <name>Florian Schmaus</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/imaplib2</title>
+    <updated>2026-07-21T08:12:17Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-21:/package/dev-python/imaplib2</id>
+    <content type="html">dev-python/imaplib2 is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=cbc04969789795e2a2e636f4fc87d24bcd3ed2eb&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/imaplib2" rel="alternate"></link>
+    <summary type="html">Threaded Python IMAP4 client</summary>
+    <author>
+      <name>Florian Schmaus</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/rfc6555</title>
+    <updated>2026-07-21T08:07:05Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-21:/package/dev-python/rfc6555</id>
+    <content type="html">dev-python/rfc6555 is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=67bdca48e96d4206d704671e26ee6ef77d824910&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/rfc6555" rel="alternate"></link>
+    <summary type="html">Implementation of the Happy Eyeballs Algorithm (RFC 6555)</summary>
+    <author>
+      <name>Florian Schmaus</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-keys/openpgp-keys-nabijaczleweli</title>
+    <updated>2026-07-19T06:53:44Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-19:/package/sec-keys/openpgp-keys-nabijaczleweli</id>
+    <content type="html">sec-keys/openpgp-keys-nabijaczleweli is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~hppa ~mips ~ppc ~ppc64 ~s390 ~sparc ~x86 ~x64-macos. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=bd64b70786279644a78402eb47258e36c527e556&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-keys/openpgp-keys-nabijaczleweli" rel="alternate"></link>
+    <summary type="html">OpenPGP keys used by наб (nabijaczleweli)</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-libs/tree-sitter-phpdoc</title>
+    <updated>2026-07-18T14:17:03Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-18:/package/dev-libs/tree-sitter-phpdoc</id>
+    <content type="html">dev-libs/tree-sitter-phpdoc is now available in Gentoo on these architectures: ~amd64 ~riscv. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=af544fc437c7ad932184ccb2849cf9ecdfc6fe8a&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-libs/tree-sitter-phpdoc" rel="alternate"></link>
+    <summary type="html">PHPDoc grammar for Tree-sitter</summary>
+    <author>
+      <name>Michael Orlitzky</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/jupyter-builder</title>
+    <updated>2026-07-20T07:10:25Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-20:/package/dev-python/jupyter-builder</id>
+    <content type="html">dev-python/jupyter-builder is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=1004c5c4e4880ffab1f46a203fb984ef01d7c327&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/jupyter-builder" rel="alternate"></link>
+    <summary type="html">JupyterLab build tools</summary>
+    <author>
+      <name>Nowa Ammerlaan</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-lang/hare</title>
+    <updated>2026-07-16T22:11:18Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-16:/package/dev-lang/hare</id>
+    <content type="html">dev-lang/hare is now available in Gentoo on these architectures: . See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=8c90283afaae26f11d8ec5ba786f2b5f3c323af8&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-lang/hare" rel="alternate"></link>
+    <summary type="html">The Hare systems programming language</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-lang/harec</title>
+    <updated>2026-07-16T22:11:16Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-16:/package/dev-lang/harec</id>
+    <content type="html">dev-lang/harec is now available in Gentoo on these architectures: ~amd64 ~arm64 ~riscv. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=67adba45e43712f37f896d316952029059de0010&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-lang/harec" rel="alternate"></link>
+    <summary type="html">The Hare compiler</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-keys/openpgp-keys-grke</title>
+    <updated>2026-07-15T21:15:48Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-15:/package/sec-keys/openpgp-keys-grke</id>
+    <content type="html">sec-keys/openpgp-keys-grke is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=67e63758bbe7ee64b58aa6939fdd57e30a9d1147&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-keys/openpgp-keys-grke" rel="alternate"></link>
+    <summary type="html">OpenPGP key used by Graham Keeling</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/pytest-tap</title>
+    <updated>2026-07-14T23:10:21Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-14:/package/dev-python/pytest-tap</id>
+    <content type="html">dev-python/pytest-tap is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~ppc ~ppc64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=6587cb9b39fa6e5883cac90d6472bac1ceebf84a&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/pytest-tap" rel="alternate"></link>
+    <summary type="html">Reporting plugin for pytest that outputs Test Anything Protocol (TAP) data</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>gnome-extra/gnome-shell-extension-lockscreen-studio</title>
+    <updated>2026-07-14T13:03:56Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-14:/package/gnome-extra/gnome-shell-extension-lockscreen-studio</id>
+    <content type="html">gnome-extra/gnome-shell-extension-lockscreen-studio is now available in Gentoo on these architectures: amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=dbd8d53b2a2a9c344feb508bd58db59162b8f44f&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/gnome-extra/gnome-shell-extension-lockscreen-studio" rel="alternate"></link>
+    <summary type="html">Customization extension for the gnome-shell lock screen</summary>
+    <author>
+      <name>Pacho Ramos</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/python-manilaclient</title>
+    <updated>2026-07-14T02:41:08Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-14:/package/dev-python/python-manilaclient</id>
+    <content type="html">dev-python/python-manilaclient is now available in Gentoo on these architectures: ~amd64 ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=a47ba32fe23d0d05c1e803d7a42f01346e3f98ea&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/python-manilaclient" rel="alternate"></link>
+    <summary type="html">Python bindings to the OpenStack Manila API</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-emacs/emacs-wttrin</title>
+    <updated>2026-07-10T13:32:40Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-10:/package/app-emacs/emacs-wttrin</id>
+    <content type="html">app-emacs/emacs-wttrin is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=cee3181ec8c3f7eea40fe015e8081e1421668c31&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-emacs/emacs-wttrin" rel="alternate"></link>
+    <summary type="html">GNU Emacs frontend for wttr.in weather report service</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-emacs/xterm-color</title>
+    <updated>2026-07-10T13:32:39Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-10:/package/app-emacs/xterm-color</id>
+    <content type="html">app-emacs/xterm-color is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=cbab815a8642950e477b79ec3bb8a12e7c8a32c1&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-emacs/xterm-color" rel="alternate"></link>
+    <summary type="html">ANSI and xterm-256 color text property translator for GNU Emacs</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-emacs/agent-shell</title>
+    <updated>2026-07-10T13:32:39Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-10:/package/app-emacs/agent-shell</id>
+    <content type="html">app-emacs/agent-shell is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=8fbc169693251281155bca31afd4b45258a6cda6&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-emacs/agent-shell" rel="alternate"></link>
+    <summary type="html">Many native agentic integrations inside GNU Emacs</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-emacs/acp</title>
+    <updated>2026-07-30T11:11:48Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-emacs/acp</id>
+    <content type="html">app-emacs/acp is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=2fdca6fd72c6b3cc76aa5735c8433233700e11e6&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-emacs/acp" rel="alternate"></link>
+    <summary type="html">Agent Client Protocol implementation for GNU Emacs</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-emacs/visual-fill-column</title>
+    <updated>2026-07-08T21:50:14Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-08:/package/app-emacs/visual-fill-column</id>
+    <content type="html">app-emacs/visual-fill-column is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=8287c3850f5d6acc4256921d86a6a47850babec2&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-emacs/visual-fill-column" rel="alternate"></link>
+    <summary type="html">GNU Emacs mode for wrapping visual-line-mode buffers at fill-column</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-process/rust-parallel</title>
+    <updated>2026-07-09T14:00:30Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-09:/package/sys-process/rust-parallel</id>
+    <content type="html">sys-process/rust-parallel is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=92ddcc7883fc4b9f1fc06183e6be94d6e018fbca&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-process/rust-parallel" rel="alternate"></link>
+    <summary type="html">Fast command line app to run commands in parallel</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>acct-user/ollama</title>
+    <updated>2026-07-06T04:43:49Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-06:/package/acct-user/ollama</id>
+    <content type="html">acct-user/ollama is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=28a12c8813d31f9bf3d0082f85945736d3b271ee&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/acct-user/ollama" rel="alternate"></link>
+    <summary type="html">A user for ollama</summary>
+    <author>
+      <name>Alfredo Tupone</name>
+    </author>
+  </entry>
+  <entry>
+    <title>acct-group/ollama</title>
+    <updated>2026-07-06T04:43:39Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-06:/package/acct-group/ollama</id>
+    <content type="html">acct-group/ollama is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=60f29b442c13b8a1fd380b26055325a5ddbf6030&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/acct-group/ollama" rel="alternate"></link>
+    <summary type="html">A group for ollama</summary>
+    <author>
+      <name>Alfredo Tupone</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sci-ml/ollama</title>
+    <updated>2026-07-29T11:30:05Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/sci-ml/ollama</id>
+    <content type="html">sci-ml/ollama is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=8c8aa4e125a29e2de322471222c952b0279fd5c1&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sci-ml/ollama" rel="alternate"></link>
+    <summary type="html">Get up and running with Llama 3, Mistral, Gemma, and other language models</summary>
+    <author>
+      <name>Alfredo Tupone</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sci-ml/ggml</title>
+    <updated>2026-07-29T13:13:08Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/sci-ml/ggml</id>
+    <content type="html">sci-ml/ggml is now available in Gentoo on these architectures: ~amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=697b8e0fd81112d26900cd95af0a7dedb0270b24&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sci-ml/ggml" rel="alternate"></link>
+    <summary type="html">Tensor library for machine learning</summary>
+    <author>
+      <name>Alfredo Tupone</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-keys/openpgp-keys-acl</title>
+    <updated>2026-07-02T18:54:50Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-02:/package/sec-keys/openpgp-keys-acl</id>
+    <content type="html">sec-keys/openpgp-keys-acl is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~loong ~m68k ~mips ~ppc ~ppc64 ~riscv ~s390 ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=5c5de71da371bae5403def9af6dca58ae01d032a&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-keys/openpgp-keys-acl" rel="alternate"></link>
+    <summary type="html">OpenPGP keys used by sys-apps/acl</summary>
+    <author>
+      <name>Mike Gilbert</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-keys/openpgp-keys-bleachbit</title>
+    <updated>2026-06-29T17:36:16Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-29:/package/sec-keys/openpgp-keys-bleachbit</id>
+    <content type="html">sec-keys/openpgp-keys-bleachbit is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~loong ~m68k ~mips ~ppc ~ppc64 ~riscv ~s390 ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=af6cd30e7be527c43fbf9b0460e18fa8aa8a1437&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-keys/openpgp-keys-bleachbit" rel="alternate"></link>
+    <summary type="html">OpenPGP keys used by the BleachBit developer</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-libs/tree-sitter-erlang</title>
+    <updated>2026-06-27T13:57:10Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-27:/package/dev-libs/tree-sitter-erlang</id>
+    <content type="html">dev-libs/tree-sitter-erlang is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=71aa88e1143019002c9db54d7ea6c78e6c4cff9e&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-libs/tree-sitter-erlang" rel="alternate"></link>
+    <summary type="html">Erlang programming language grammar for Tree-sitter</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-libs/tree-sitter-clojure</title>
+    <updated>2026-06-27T13:57:10Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-27:/package/dev-libs/tree-sitter-clojure</id>
+    <content type="html">dev-libs/tree-sitter-clojure is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=09f0131d525447b32be7becc473a0ee19870f480&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-libs/tree-sitter-clojure" rel="alternate"></link>
+    <summary type="html">Clojure programming language grammar for Tree-sitter</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-libs/tree-sitter-powershell</title>
+    <updated>2026-06-27T13:57:09Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-27:/package/dev-libs/tree-sitter-powershell</id>
+    <content type="html">dev-libs/tree-sitter-powershell is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=6ae3f82c7318b9ca9c1f0d9893f21b3e8d8fa26d&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-libs/tree-sitter-powershell" rel="alternate"></link>
+    <summary type="html">PowerShell programming language grammar for Tree-sitter</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-emacs/unison-ts-mode</title>
+    <updated>2026-06-27T13:57:09Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-27:/package/app-emacs/unison-ts-mode</id>
+    <content type="html">app-emacs/unison-ts-mode is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=253965e5f194ace5b0bb2bc10620d8ef0ba63f70&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-emacs/unison-ts-mode" rel="alternate"></link>
+    <summary type="html">GNU Emacs major mode for the Unison language that uses Tree-sitter</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-libs/tree-sitter-racket</title>
+    <updated>2026-06-26T23:54:46Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-26:/package/dev-libs/tree-sitter-racket</id>
+    <content type="html">dev-libs/tree-sitter-racket is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=8545a47a39ed48cb029e8544c46b2a4f6ecd452c&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-libs/tree-sitter-racket" rel="alternate"></link>
+    <summary type="html">Racket programming language grammar for Tree-sitter</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-libs/tree-sitter-unison</title>
+    <updated>2026-06-26T23:54:46Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-26:/package/dev-libs/tree-sitter-unison</id>
+    <content type="html">dev-libs/tree-sitter-unison is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=5957e56b753075eed722b418d136b7d10a976607&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-libs/tree-sitter-unison" rel="alternate"></link>
+    <summary type="html">Unison programming language grammar for Tree-sitter</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-containers/container-libs</title>
+    <updated>2026-07-20T20:24:43Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-20:/package/app-containers/container-libs</id>
+    <content type="html">app-containers/container-libs is now available in Gentoo on these architectures: ~amd64 ~arm64 ~loong ~riscv. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=b5ef6b43a768c743f72e8b8c77d7fc117b1e41d1&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-containers/container-libs" rel="alternate"></link>
+    <summary type="html">Several utilities from the containers project</summary>
+    <author>
+      <name>Zac Medico</name>
+    </author>
+  </entry>
+  <entry>
+    <title>games-strategy/vcmi</title>
+    <updated>2026-06-26T19:18:02Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-26:/package/games-strategy/vcmi</id>
+    <content type="html">games-strategy/vcmi is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=5b89d45a8b5933535e45365a5150a33189b14038&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/games-strategy/vcmi" rel="alternate"></link>
+    <summary type="html">Open-source engine for Heroes of Might and Magic III</summary>
+    <author>
+      <name>Stefan Strogin</name>
+    </author>
+  </entry>
+  <entry>
+    <title>media-libs/libsquish</title>
+    <updated>2026-06-26T19:18:02Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-26:/package/media-libs/libsquish</id>
+    <content type="html">media-libs/libsquish is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=5424de59809beea6ec206a1aa95265c320211cca&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/media-libs/libsquish" rel="alternate"></link>
+    <summary type="html">Library for compressing images with the DXT/S3TC standard</summary>
+    <author>
+      <name>Stefan Strogin</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-libs/fuzzylite</title>
+    <updated>2026-06-26T19:18:02Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-26:/package/dev-libs/fuzzylite</id>
+    <content type="html">dev-libs/fuzzylite is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=a245d547ae3d965ea34847e8d1fff8ecc7b760c2&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-libs/fuzzylite" rel="alternate"></link>
+    <summary type="html">A fuzzy logic control library in C++</summary>
+    <author>
+      <name>Stefan Strogin</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-lang/unison-lang-bin</title>
+    <updated>2026-06-22T22:56:41Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-lang/unison-lang-bin</id>
+    <content type="html">dev-lang/unison-lang-bin is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=0147cf15f04a0c25034ee825f931b2f897851c66&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-lang/unison-lang-bin" rel="alternate"></link>
+    <summary type="html">A friendly programming language from the future</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>xfce-base/xfwl4</title>
+    <updated>2026-06-22T10:47:28Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/xfce-base/xfwl4</id>
+    <content type="html">xfce-base/xfwl4 is now available in Gentoo on these architectures: . See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=07988a0fb48417545ea5807fea7ab92d3d703f56&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/xfce-base/xfwl4" rel="alternate"></link>
+    <summary type="html">Xfce&#39;s [experimental] Wayland Compositor</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/servant-client-core</title>
+    <updated>2026-06-22T10:42:16Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/servant-client-core</id>
+    <content type="html">dev-haskell/servant-client-core is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=27da8ca6c34e4365dee4197587cc588365061c97&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/servant-client-core" rel="alternate"></link>
+    <summary type="html">Core functionality and class for client function generation for servant APIs</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/servant-client</title>
+    <updated>2026-06-22T10:42:15Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/servant-client</id>
+    <content type="html">dev-haskell/servant-client is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=c9941a5d69594290564f3008bf36e0badf130346&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/servant-client" rel="alternate"></link>
+    <summary type="html">Automatic derivation of querying functions for servant</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/replace-megaparsec</title>
+    <updated>2026-06-22T10:42:14Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/replace-megaparsec</id>
+    <content type="html">dev-haskell/replace-megaparsec is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=ab69c053b4893b6f730f8af02404f8391e084bec&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/replace-megaparsec" rel="alternate"></link>
+    <summary type="html">Find, replace, split string patterns with Megaparsec parsers (instead of regex)</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/crypton-conduit</title>
+    <updated>2026-06-22T10:41:54Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/crypton-conduit</id>
+    <content type="html">dev-haskell/crypton-conduit is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=03d17d5488c8c9b065adbbf392fafc1ca8cb82fd&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/crypton-conduit" rel="alternate"></link>
+    <summary type="html">crypton conduit</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/crypto-token</title>
+    <updated>2026-06-22T10:41:53Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/crypto-token</id>
+    <content type="html">dev-haskell/crypto-token is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=79c40ed180c622ad602db349e958d6a0b202d12d&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/crypto-token" rel="alternate"></link>
+    <summary type="html">crypto tokens</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/hpke</title>
+    <updated>2026-06-22T10:41:40Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/hpke</id>
+    <content type="html">dev-haskell/hpke is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=6a2ab493b39889ee8c9998f6047135715abc811c&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/hpke" rel="alternate"></link>
+    <summary type="html">Hybrid Public Key Encryption</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/network-control</title>
+    <updated>2026-06-22T10:37:13Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/network-control</id>
+    <content type="html">dev-haskell/network-control is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=79231af73714cc4f2d9c56301284515a53f705bf&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/network-control" rel="alternate"></link>
+    <summary type="html">Library to control network protocols</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/pretty-simple</title>
+    <updated>2026-06-22T10:36:58Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/pretty-simple</id>
+    <content type="html">dev-haskell/pretty-simple is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=84bd75f4113394de98b3d48bffdb95c96d647b13&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/pretty-simple" rel="alternate"></link>
+    <summary type="html">pretty printer for data types with a &#39;Show&#39; instance</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/http-semantics</title>
+    <updated>2026-06-22T10:36:53Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/http-semantics</id>
+    <content type="html">dev-haskell/http-semantics is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=8ceb63a6c362c3b68503f59e1b09a4251a803314&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/http-semantics" rel="alternate"></link>
+    <summary type="html">HTTP senmatics libarry</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/skylighting-format-typst</title>
+    <updated>2026-06-22T10:35:44Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/skylighting-format-typst</id>
+    <content type="html">dev-haskell/skylighting-format-typst is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=d311f92ce02432c1187df75c3d928baf1f3cea03&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/skylighting-format-typst" rel="alternate"></link>
+    <summary type="html">Typst formatter for skylighting syntax highlighting library</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/libyaml-clib</title>
+    <updated>2026-06-22T10:35:06Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/libyaml-clib</id>
+    <content type="html">dev-haskell/libyaml-clib is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=329fa7f555bcb561d591d62981be78e388ae1e0a&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/libyaml-clib" rel="alternate"></link>
+    <summary type="html">libyaml clibs</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/djot</title>
+    <updated>2026-06-22T10:41:56Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/djot</id>
+    <content type="html">dev-haskell/djot is now available in Gentoo on these architectures: ~amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=e8a45aff5ad966caa9484193e0d89abdd213e910&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/djot" rel="alternate"></link>
+    <summary type="html">Parser and renderer for djot light markup syntax</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/serialise</title>
+    <updated>2026-06-22T10:33:36Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/serialise</id>
+    <content type="html">dev-haskell/serialise is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=c0510727c589d0626fdd9d1cb5f4e0f5d790ca74&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/serialise" rel="alternate"></link>
+    <summary type="html">A binary serialisation library for Haskell values</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/cborg</title>
+    <updated>2026-06-22T10:33:31Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/cborg</id>
+    <content type="html">dev-haskell/cborg is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=aac5de1ee09e3a931f3cf6ecd1ec296d370ede44&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/cborg" rel="alternate"></link>
+    <summary type="html">Concise Binary Object Representation (CBOR)</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/half</title>
+    <updated>2026-06-22T10:33:27Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/half</id>
+    <content type="html">dev-haskell/half is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=435c0170e675f790b6652af015a66a424e11063d&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/half" rel="alternate"></link>
+    <summary type="html">Half-precision floating-point</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/asciidoc</title>
+    <updated>2026-06-22T10:41:48Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/asciidoc</id>
+    <content type="html">dev-haskell/asciidoc is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=2a0f7b20d07e10fb59899c0cb729b5468cf0151d&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/asciidoc" rel="alternate"></link>
+    <summary type="html">AsciiDoc parser</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/cabal-install-solver</title>
+    <updated>2026-06-22T10:28:37Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/cabal-install-solver</id>
+    <content type="html">dev-haskell/cabal-install-solver is now available in Gentoo on these architectures: ~amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=1c518248e5520dc65d614df4876080c2f48cca34&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/cabal-install-solver" rel="alternate"></link>
+    <summary type="html">The command-line interface for Cabal and Hackage</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/tracetree</title>
+    <updated>2026-06-22T10:28:33Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/tracetree</id>
+    <content type="html">dev-haskell/tracetree is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=ffcdd1cfe1f31b978d9a1292359b9bcc20b1cd56&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/tracetree" rel="alternate"></link>
+    <summary type="html">Visualize Haskell data structures as edge-labeled trees</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/svgfonts</title>
+    <updated>2026-06-22T10:28:29Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/svgfonts</id>
+    <content type="html">dev-haskell/svgfonts is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=789a4dbc252cfdaa09e10286b3ed8871ea011501&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/svgfonts" rel="alternate"></link>
+    <summary type="html">Fonts from the SVG-Font format</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/cereal-vector</title>
+    <updated>2021-07-25T10:31:38Z</updated>
+    <id>tag:packages.gentoo.org,2021-07-25:/package/dev-haskell/cereal-vector</id>
+    <content type="html">dev-haskell/cereal-vector is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=6efdd1d7e3948a6ea7745cf88c8d19e27c9eb931&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/cereal-vector" rel="alternate"></link>
+    <summary type="html">Serialize instances for Data.Vector types</summary>
+    <author>
+      <name>Sergei Trofimovich</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/blaze-svg</title>
+    <updated>2026-06-22T10:28:17Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/blaze-svg</id>
+    <content type="html">dev-haskell/blaze-svg is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=605f075b2538e19f62a9aa72371ca2b94b354656&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/blaze-svg" rel="alternate"></link>
+    <summary type="html">SVG combinator library</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/json</title>
+    <updated>2022-08-22T07:11:24Z</updated>
+    <id>tag:packages.gentoo.org,2022-08-22:/package/dev-haskell/json</id>
+    <content type="html">dev-haskell/json is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=966de0e836323d46a6190d5a0f74de505ed62720&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/json" rel="alternate"></link>
+    <summary type="html">Support for serialising Haskell to and from JSON</summary>
+    <author>
+      <name>Jakov Smolić</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/diagrams-contrib</title>
+    <updated>2026-06-22T10:28:08Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/diagrams-contrib</id>
+    <content type="html">dev-haskell/diagrams-contrib is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=d018093036d281fe36f3bb32f8278dc9bd07af02&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/diagrams-contrib" rel="alternate"></link>
+    <summary type="html">Collection of user contributions to diagrams EDSL</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/monadrandom</title>
+    <updated>2026-06-22T10:28:04Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/monadrandom</id>
+    <content type="html">dev-haskell/monadrandom is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=12c805c8afd8d6ff947a15b14b73c47c4b0a2f21&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/monadrandom" rel="alternate"></link>
+    <summary type="html">Random-number generation monad</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/mfsolve</title>
+    <updated>2026-06-22T10:28:00Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/mfsolve</id>
+    <content type="html">dev-haskell/mfsolve is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=9791e9af237d9c0e2eb20a3756d3eb18a189c120&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/mfsolve" rel="alternate"></link>
+    <summary type="html">Equation solver and calculator à la metafont</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/force-layout</title>
+    <updated>2026-06-22T10:27:51Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/force-layout</id>
+    <content type="html">dev-haskell/force-layout is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=54d8d9f21bbba94596a5947289a9aaecf3ac9284&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/force-layout" rel="alternate"></link>
+    <summary type="html">Simple force-directed layout</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/cubicbezier</title>
+    <updated>2026-06-22T10:27:46Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/cubicbezier</id>
+    <content type="html">dev-haskell/cubicbezier is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=796e8b94ec3c8b7ce54ffecd75069d61c144a0a4&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/cubicbezier" rel="alternate"></link>
+    <summary type="html">Efficient manipulating of 2D cubic bezier curves</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/vector-space</title>
+    <updated>2020-08-24T07:00:19Z</updated>
+    <id>tag:packages.gentoo.org,2020-08-24:/package/dev-haskell/vector-space</id>
+    <content type="html">dev-haskell/vector-space is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=aeaea99e3775ea3cc27e725e82b22de13081157c&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/vector-space" rel="alternate"></link>
+    <summary type="html">Vector &amp; affine spaces, linear maps, and derivatives</summary>
+    <author>
+      <name>Sergei Trofimovich</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/numinstances</title>
+    <updated>2022-08-21T21:50:50Z</updated>
+    <id>tag:packages.gentoo.org,2022-08-21:/package/dev-haskell/numinstances</id>
+    <content type="html">dev-haskell/numinstances is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=17980cc407fc5e0fc54c496e7c7dfb6c30d3865f&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/numinstances" rel="alternate"></link>
+    <summary type="html">Instances of numeric classes for functions and tuples</summary>
+    <author>
+      <name>Jakov Smolić</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/memotrie</title>
+    <updated>2026-06-22T10:27:33Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/memotrie</id>
+    <content type="html">dev-haskell/memotrie is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=9c3e64435074134f6551f6acc5c4583f7357df5c&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/memotrie" rel="alternate"></link>
+    <summary type="html">Trie-based memo functions</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/newtype-generics</title>
+    <updated>2026-06-22T10:27:29Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/newtype-generics</id>
+    <content type="html">dev-haskell/newtype-generics is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=51e41d97dd488079eae5aa9bbc13209c3c1d13d2&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/newtype-generics" rel="alternate"></link>
+    <summary type="html">A typeclass and set of functions for working with newtypes</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/boolean</title>
+    <updated>2019-12-15T11:16:20Z</updated>
+    <id>tag:packages.gentoo.org,2019-12-15:/package/dev-haskell/boolean</id>
+    <content type="html">dev-haskell/boolean is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=1773a6fa5e4f624689e1591e675549484aeced30&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/boolean" rel="alternate"></link>
+    <summary type="html">Generalized booleans and numbers</summary>
+    <author>
+      <name>Sergei Trofimovich</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/matrices</title>
+    <updated>2026-06-22T10:27:18Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/matrices</id>
+    <content type="html">dev-haskell/matrices is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=1245f190717bb539552295b30431eea83baf8d58&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/matrices" rel="alternate"></link>
+    <summary type="html">native matrix based on vector</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/integration</title>
+    <updated>2026-06-22T10:27:14Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/integration</id>
+    <content type="html">dev-haskell/integration is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=0b6417fc0c8c5f0f5fb4927c45eb47b0aff3213d&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/integration" rel="alternate"></link>
+    <summary type="html">Fast robust numeric integration via tanh-sinh quadrature</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/fast-math</title>
+    <updated>2026-06-22T10:27:09Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/fast-math</id>
+    <content type="html">dev-haskell/fast-math is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=03df9a853ed346a435faf588a812506dbeb13412&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/fast-math" rel="alternate"></link>
+    <summary type="html">Non IEEE-754 compliant compile-time floating-point optimisations</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/circle-packing</title>
+    <updated>2026-06-22T10:27:05Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/circle-packing</id>
+    <content type="html">dev-haskell/circle-packing is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=e19f108fcde36c8a2abb3b86d92bdecdb3329693&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/circle-packing" rel="alternate"></link>
+    <summary type="html">Simple heuristic for packing discs of varying radii in a circle</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/diagrams-cairo</title>
+    <updated>2026-06-22T10:27:01Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/diagrams-cairo</id>
+    <content type="html">dev-haskell/diagrams-cairo is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=78079964a69238cfb78aff24865f929c283f036e&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/diagrams-cairo" rel="alternate"></link>
+    <summary type="html">Cairo backend for diagrams drawing EDSL</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/statestack</title>
+    <updated>2026-06-22T10:26:56Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/statestack</id>
+    <content type="html">dev-haskell/statestack is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=0934fb81e652f42b3358a14cfd0a9c04df2c6ab3&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/statestack" rel="alternate"></link>
+    <summary type="html">Simple State-like monad transformer with saveable and restorable state</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/diagrams-lib</title>
+    <updated>2026-06-22T10:26:43Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/diagrams-lib</id>
+    <content type="html">dev-haskell/diagrams-lib is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=b2cf3494af38bbb5d7a42ff558ca27ce3a3351a6&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/diagrams-lib" rel="alternate"></link>
+    <summary type="html">Embedded domain-specific language for declarative graphics</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/numeric-extras</title>
+    <updated>2026-06-22T10:26:39Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/numeric-extras</id>
+    <content type="html">dev-haskell/numeric-extras is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=2101d6436e49b58f388b710434426769dea3bdf3&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/numeric-extras" rel="alternate"></link>
+    <summary type="html">Useful tools from the C standard library</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/intervals</title>
+    <updated>2026-06-22T10:26:30Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/intervals</id>
+    <content type="html">dev-haskell/intervals is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=a61f59613c626ce4cd0990edcd9cd9c0c8e67c5c&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/intervals" rel="alternate"></link>
+    <summary type="html">Interval Arithmetic</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/fsnotify</title>
+    <updated>2026-06-22T10:26:26Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/fsnotify</id>
+    <content type="html">dev-haskell/fsnotify is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=423a1e69bc14ef8aa79dc585d3652836512a88e8&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/fsnotify" rel="alternate"></link>
+    <summary type="html">Cross platform library for file change notification</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/sandwich</title>
+    <updated>2026-06-22T10:26:22Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/sandwich</id>
+    <content type="html">dev-haskell/sandwich is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=a3122def10791372efa05371fac3788358810e96&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/sandwich" rel="alternate"></link>
+    <summary type="html">Yet another test framework for Haskell</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/brick</title>
+    <updated>2026-06-22T10:26:13Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/brick</id>
+    <content type="html">dev-haskell/brick is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=b972afda0bf36471d6b7550b7628f0e133647a9b&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/brick" rel="alternate"></link>
+    <summary type="html">A declarative terminal user interface library</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/word-wrap</title>
+    <updated>2026-06-22T10:26:08Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/word-wrap</id>
+    <content type="html">dev-haskell/word-wrap is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=3f42783b499f83c82dd92d5bb9fbfc7a5776fdf5&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/word-wrap" rel="alternate"></link>
+    <summary type="html">A library for word-wrapping</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/vty-crossplatform</title>
+    <updated>2026-06-22T10:26:04Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/vty-crossplatform</id>
+    <content type="html">dev-haskell/vty-crossplatform is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=15055974aaed21121242e4a8d3be90aaf13169ff&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/vty-crossplatform" rel="alternate"></link>
+    <summary type="html">Cross-platform support for Vty</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/vty-unix</title>
+    <updated>2026-06-22T10:25:59Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/vty-unix</id>
+    <content type="html">dev-haskell/vty-unix is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=0cd33582ac8fbeaaaf9769991b171f642064a145&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/vty-unix" rel="alternate"></link>
+    <summary type="html">Unix backend for Vty</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/vty</title>
+    <updated>2026-06-22T10:25:55Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/vty</id>
+    <content type="html">dev-haskell/vty is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=5f209533a45854d02b385a217078d3bbeabe54f8&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/vty" rel="alternate"></link>
+    <summary type="html">A simple terminal UI library</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/text-zipper</title>
+    <updated>2026-06-22T10:25:50Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/text-zipper</id>
+    <content type="html">dev-haskell/text-zipper is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=4a684ef1e495814bd1ff396ab72cb99ae68dc5e8&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/text-zipper" rel="alternate"></link>
+    <summary type="html">A text editor zipper library</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/microlens-platform</title>
+    <updated>2026-06-22T10:25:46Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/microlens-platform</id>
+    <content type="html">dev-haskell/microlens-platform is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=59defff95f537477b630897a3cd72113b65505bc&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/microlens-platform" rel="alternate"></link>
+    <summary type="html">microlens + all batteries included (best for apps)</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/microlens-ghc</title>
+    <updated>2026-06-22T10:25:42Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/microlens-ghc</id>
+    <content type="html">dev-haskell/microlens-ghc is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=2b2d405cacf845c48f86c7699fb446f2ef990fc9&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/microlens-ghc" rel="alternate"></link>
+    <summary type="html">microlens + array, bytestring, containers, transformers</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/data-clist</title>
+    <updated>2026-06-22T10:25:28Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/data-clist</id>
+    <content type="html">dev-haskell/data-clist is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=5f156c6341c0db4b81c2242856c8f79dae52c164&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/data-clist" rel="alternate"></link>
+    <summary type="html">Simple functional ring type</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/config-ini</title>
+    <updated>2026-06-22T10:25:24Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/config-ini</id>
+    <content type="html">dev-haskell/config-ini is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=daeab34890ea9d8bc8c34eda5e2e866432d1dd95&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/config-ini" rel="alternate"></link>
+    <summary type="html">A library for simple INI-based configuration files</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/ini</title>
+    <updated>2026-06-22T10:25:06Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/ini</id>
+    <content type="html">dev-haskell/ini is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=93f53a8aadcc3777f1472c4ef9185e5e1230f383&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/ini" rel="alternate"></link>
+    <summary type="html">Configuration files in the INI format</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/bimap</title>
+    <updated>2026-06-22T10:25:01Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/bimap</id>
+    <content type="html">dev-haskell/bimap is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=16d731ed3039bdd633d331213af5c956448538a2&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/bimap" rel="alternate"></link>
+    <summary type="html">Bidirectional mapping between two key types</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/string-interpolate</title>
+    <updated>2026-06-22T10:24:52Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/string-interpolate</id>
+    <content type="html">dev-haskell/string-interpolate is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=169be502ea01faf30187b2f8c762527154ad6224&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/string-interpolate" rel="alternate"></link>
+    <summary type="html">Haskell string/text/bytestring interpolation that just works</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/quickcheck-text</title>
+    <updated>2026-06-22T10:24:39Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/quickcheck-text</id>
+    <content type="html">dev-haskell/quickcheck-text is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=425f2d445821a5ed796a0a899129e4a4a81d794d&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/quickcheck-text" rel="alternate"></link>
+    <summary type="html">Alternative arbitrary instance for Text</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/haskell-src-meta</title>
+    <updated>2026-06-22T10:24:34Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/haskell-src-meta</id>
+    <content type="html">dev-haskell/haskell-src-meta is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=3a0a812000d3950aad0fb97df2ba52faf6bfbb78&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/haskell-src-meta" rel="alternate"></link>
+    <summary type="html">Parse source to template-haskell abstract syntax</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/th-orphans</title>
+    <updated>2026-06-22T10:24:29Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/th-orphans</id>
+    <content type="html">dev-haskell/th-orphans is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=8a43ec340ea5ac65f49f1710b88c8c54d8d0c0bf&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/th-orphans" rel="alternate"></link>
+    <summary type="html">Orphan instances for TH datatypes</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/th-reify-many</title>
+    <updated>2022-07-31T01:29:39Z</updated>
+    <id>tag:packages.gentoo.org,2022-07-31:/package/dev-haskell/th-reify-many</id>
+    <content type="html">dev-haskell/th-reify-many is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=1375662d648e7d9c78c42f562f3f6c6d8f685428&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/th-reify-many" rel="alternate"></link>
+    <summary type="html">Recurseively reify template haskell datatype info</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/th-expand-syns</title>
+    <updated>2026-06-22T10:24:20Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/th-expand-syns</id>
+    <content type="html">dev-haskell/th-expand-syns is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=720da46c8525d40f9565c1e43d3e41a43d2b467d&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/th-expand-syns" rel="alternate"></link>
+    <summary type="html">Expands type synonyms in Template Haskell ASTs</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/diagrams-solve</title>
+    <updated>2026-06-22T10:23:54Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/diagrams-solve</id>
+    <content type="html">dev-haskell/diagrams-solve is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=f15a25ac82aced2bedb185d37ceeaf9a998654f1&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/diagrams-solve" rel="alternate"></link>
+    <summary type="html">Pure Haskell solver routines used by diagrams</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/active</title>
+    <updated>2026-06-22T10:23:49Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/active</id>
+    <content type="html">dev-haskell/active is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=63ebb712096f17f3e11a165f624ca3334345baf7&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/active" rel="alternate"></link>
+    <summary type="html">Abstractions for animation</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/diagrams-core</title>
+    <updated>2026-06-22T10:23:45Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/diagrams-core</id>
+    <content type="html">dev-haskell/diagrams-core is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=ba7b1de6e84c461c748328976d91711c22456c79&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/diagrams-core" rel="alternate"></link>
+    <summary type="html">Core libraries for diagrams EDSL</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/linear</title>
+    <updated>2026-06-22T10:23:41Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/linear</id>
+    <content type="html">dev-haskell/linear is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=29130bc2108e39342e7e5b6de35d6dc8cc34793a&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/linear" rel="alternate"></link>
+    <summary type="html">Linear Algebra</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/bytes</title>
+    <updated>2026-06-22T10:23:36Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/bytes</id>
+    <content type="html">dev-haskell/bytes is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=904423b76d0e82b15c502286cd2db5423147998f&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/bytes" rel="alternate"></link>
+    <summary type="html">Sharing code for serialization between binary and cereal</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/dual-tree</title>
+    <updated>2026-06-22T10:23:32Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/dual-tree</id>
+    <content type="html">dev-haskell/dual-tree is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=590352fc946acff06cb93d67456c233ff4273fea&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/dual-tree" rel="alternate"></link>
+    <summary type="html">Rose trees with cached and accumulating monoidal annotations</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/testing-feat</title>
+    <updated>2026-06-22T10:23:28Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/testing-feat</id>
+    <content type="html">dev-haskell/testing-feat is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=c7998d6a5c0510d74f8f061ab457e3ef8758775b&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/testing-feat" rel="alternate"></link>
+    <summary type="html">Functional Enumeration of Algebraic Types</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/size-based</title>
+    <updated>2026-06-22T10:23:23Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/size-based</id>
+    <content type="html">dev-haskell/size-based is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=56f20db9779754a6c21b2e9e05be9ab0c45ac73f&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/size-based" rel="alternate"></link>
+    <summary type="html">Sized functors, for size-based enumerations</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/testing-type-modifiers</title>
+    <updated>2022-08-21T21:31:39Z</updated>
+    <id>tag:packages.gentoo.org,2022-08-21:/package/dev-haskell/testing-type-modifiers</id>
+    <content type="html">dev-haskell/testing-type-modifiers is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=fc8f290d971d04889a9a0232622f170baaee7e6b&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/testing-type-modifiers" rel="alternate"></link>
+    <summary type="html">Data type modifiers for property based testing</summary>
+    <author>
+      <name>Jakov Smolić</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/dictionary-sharing</title>
+    <updated>2026-06-22T10:23:14Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/dictionary-sharing</id>
+    <content type="html">dev-haskell/dictionary-sharing is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=83ca0753ef2b44f41fb92463afedf28fd724a802&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/dictionary-sharing" rel="alternate"></link>
+    <summary type="html">Sharing/memoization of class members</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/monoid-extras</title>
+    <updated>2026-06-22T10:23:10Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/monoid-extras</id>
+    <content type="html">dev-haskell/monoid-extras is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=c756b1decee90f9b21595361b098a900aa900cce&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/monoid-extras" rel="alternate"></link>
+    <summary type="html">Various extra monoid-related definitions and utilities</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/groups</title>
+    <updated>2022-09-29T07:54:44Z</updated>
+    <id>tag:packages.gentoo.org,2022-09-29:/package/dev-haskell/groups</id>
+    <content type="html">dev-haskell/groups is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=1a8a55c33b1e8289c1c24abe581c70732b00fec3&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/groups" rel="alternate"></link>
+    <summary type="html">A group is a monoid with invertibility</summary>
+    <author>
+      <name>Jakov Smolić</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/zlib-clib</title>
+    <updated>2026-06-22T10:21:28Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/zlib-clib</id>
+    <content type="html">dev-haskell/zlib-clib is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=5dd4f088d099548f5502c6777af5aadb7d5f6a76&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/zlib-clib" rel="alternate"></link>
+    <summary type="html">zlib C library bits</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/cabal-tree-diff</title>
+    <updated>2026-06-22T10:21:15Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/cabal-tree-diff</id>
+    <content type="html">dev-haskell/cabal-tree-diff is now available in Gentoo on these architectures: ~amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=f8462d81f9909992110b8d454b718bd1329ebeb7&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/cabal-tree-diff" rel="alternate"></link>
+    <summary type="html">tree-diff for Cabal</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/cabal-quickcheck</title>
+    <updated>2026-06-22T10:19:56Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/cabal-quickcheck</id>
+    <content type="html">dev-haskell/cabal-quickcheck is now available in Gentoo on these architectures: ~amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=3b086a22c070a071b1ab0312a96c0075ba2d3113&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/cabal-quickcheck" rel="alternate"></link>
+    <summary type="html">QuickCheck instances for types in Cabal</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/cabal-described</title>
+    <updated>2026-06-22T10:19:51Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/cabal-described</id>
+    <content type="html">dev-haskell/cabal-described is now available in Gentoo on these architectures: ~amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=222e7c055f71996198def0dab288ce1cd5d9a978&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/cabal-described" rel="alternate"></link>
+    <summary type="html">Described functionality for types in Cabal</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/rere</title>
+    <updated>2026-06-22T10:19:47Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/rere</id>
+    <content type="html">dev-haskell/rere is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=9ea23c85c0f6ff91bf7c7eba131929fad5946e8c&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/rere" rel="alternate"></link>
+    <summary type="html">Regular-expressions extended with fixpoints for context-free powers</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/vec</title>
+    <updated>2026-06-22T10:19:42Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/vec</id>
+    <content type="html">dev-haskell/vec is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=bcc94bb9531cca34578acd21136fe815cc2cda50&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/vec" rel="alternate"></link>
+    <summary type="html">Vec: length-indexed (sized) list</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/fin</title>
+    <updated>2026-06-22T10:19:24Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/fin</id>
+    <content type="html">dev-haskell/fin is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=695dc86fc1ab9f288a033765e52cac47072d9773&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/fin" rel="alternate"></link>
+    <summary type="html">Nat and Fin: peano naturals and finite numbers</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/universe-base</title>
+    <updated>2026-06-22T10:19:19Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/universe-base</id>
+    <content type="html">dev-haskell/universe-base is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=ee9fcf3624d8eddaf397d6c7b8fabb7f796762f2&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/universe-base" rel="alternate"></link>
+    <summary type="html">A class for finite and recursively enumerable types</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/hadrian</title>
+    <updated>2026-06-22T10:19:10Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/hadrian</id>
+    <content type="html">dev-haskell/hadrian is now available in Gentoo on these architectures: ~amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=40e44a5411826cf15eea59b7d585e257ccb14f47&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/hadrian" rel="alternate"></link>
+    <summary type="html">GHC build system</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-util/shake</title>
+    <updated>2026-06-22T10:18:56Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-util/shake</id>
+    <content type="html">dev-util/shake is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=ca6534146049e43c3b847608986ff49865ee046d&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-util/shake" rel="alternate"></link>
+    <summary type="html">Build system library, like Make, but more accurate dependencies</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/js-jquery</title>
+    <updated>2026-06-22T10:18:51Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/js-jquery</id>
+    <content type="html">dev-haskell/js-jquery is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=9d26141afbbda9dd82edd15d4ded634e2c9bb45b&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/js-jquery" rel="alternate"></link>
+    <summary type="html">Obtain minified jQuery code</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/js-flot</title>
+    <updated>2017-02-16T21:57:07Z</updated>
+    <id>tag:packages.gentoo.org,2017-02-16:/package/dev-haskell/js-flot</id>
+    <content type="html">dev-haskell/js-flot is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=9d1f0a651e5328b25eb6c05367f2ff370bbc5001&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/js-flot" rel="alternate"></link>
+    <summary type="html">Obtain minified flot code</summary>
+    <author>
+      <name>Sergei Trofimovich</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/js-dgtable</title>
+    <updated>2026-06-22T10:17:18Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/js-dgtable</id>
+    <content type="html">dev-haskell/js-dgtable is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=aa7b6724a6e75be11d4b7709e9cfe207ffaa94ad&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/js-dgtable" rel="alternate"></link>
+    <summary type="html">Obtain minified jquery.dgtable code</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/filepattern</title>
+    <updated>2026-06-22T10:17:11Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/filepattern</id>
+    <content type="html">dev-haskell/filepattern is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=88749cbc9e7ca605e284d81fb1283f929f664906&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/filepattern" rel="alternate"></link>
+    <summary type="html">File path glob-like matching</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/heaps</title>
+    <updated>2026-06-22T10:17:06Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/heaps</id>
+    <content type="html">dev-haskell/heaps is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=a7a6c252bdd005f736c0e457901e46b6a7e055c5&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/heaps" rel="alternate"></link>
+    <summary type="html">Asymptotically optimal Brodal/Okasaki heaps</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/process</title>
+    <updated>2026-06-22T10:15:45Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/process</id>
+    <content type="html">dev-haskell/process is now available in Gentoo on these architectures: ~amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=9bc85d461f6a2740d0d2168f1702f353c061df97&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/process" rel="alternate"></link>
+    <summary type="html">Process libraries</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/wherefrom-compat</title>
+    <updated>2026-06-22T10:13:32Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/wherefrom-compat</id>
+    <content type="html">dev-haskell/wherefrom-compat is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=442afe7606ec65ebb7a444b8e3d40798f3c4c475&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/wherefrom-compat" rel="alternate"></link>
+    <summary type="html">A compatibility layer for GHC&#39;s &#39;wherefrom&#39; function</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/cabal-syntax</title>
+    <updated>2026-06-22T10:10:39Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/cabal-syntax</id>
+    <content type="html">dev-haskell/cabal-syntax is now available in Gentoo on these architectures: ~amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=040fb043103cf74f3ce9cfc2b9aa549085fd0e36&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/cabal-syntax" rel="alternate"></link>
+    <summary type="html">A library for working with .cabal files</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-keys/openpgp-keys-ghc</title>
+    <updated>2026-06-22T10:10:16Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/sec-keys/openpgp-keys-ghc</id>
+    <content type="html">sec-keys/openpgp-keys-ghc is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~loong ~m68k ~mips ~ppc ~ppc64 ~riscv ~s390 ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=21eaaedcc136a3df5b9553455f0996af397f1fbb&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-keys/openpgp-keys-ghc" rel="alternate"></link>
+    <summary type="html">OpenPGP keys used to sign GHC releases</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/xhtml</title>
+    <updated>2026-06-22T09:39:17Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/xhtml</id>
+    <content type="html">dev-haskell/xhtml is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=c3c55c4996f4cc1374c4d095af8d34a0c73872d7&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/xhtml" rel="alternate"></link>
+    <summary type="html">An XHTML combinator library</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/ech-config</title>
+    <updated>2026-06-22T09:39:17Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/ech-config</id>
+    <content type="html">dev-haskell/ech-config is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=35ac719a00aa90a20203b53a161e770dfa72f864&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/ech-config" rel="alternate"></link>
+    <summary type="html">Config for TLS Encrypted Client Hello</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/text-iso8601</title>
+    <updated>2026-06-22T09:38:34Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/text-iso8601</id>
+    <content type="html">dev-haskell/text-iso8601 is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=50aa8b61b306ce2eeb9949278dff26b9febfb860&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/text-iso8601" rel="alternate"></link>
+    <summary type="html">Converting time to and from ISO 8601 text</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/integer-conversion</title>
+    <updated>2026-06-22T09:38:33Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/integer-conversion</id>
+    <content type="html">dev-haskell/integer-conversion is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=8ae9e01d10ab177748dbc312517e76d6cfd7091a&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/integer-conversion" rel="alternate"></link>
+    <summary type="html">Conversion from strings to Integer</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-haskell/character-ps</title>
+    <updated>2026-06-22T09:38:23Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-22:/package/dev-haskell/character-ps</id>
+    <content type="html">dev-haskell/character-ps is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=021430dbecb3acd073b93465c7df91defc942890&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-haskell/character-ps" rel="alternate"></link>
+    <summary type="html">Pattern synonyms for ASCII characters for Word8, Word16 etc</summary>
+    <author>
+      <name>Mark Wright</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/yaspin</title>
+    <updated>2026-06-21T01:45:48Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-21:/package/dev-python/yaspin</id>
+    <content type="html">dev-python/yaspin is now available in Gentoo on these architectures: ~amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=bdee9b70845f97b79c63fc48944ea24114e59df3&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/yaspin" rel="alternate"></link>
+    <summary type="html">Yet Another Terminal Spinner</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-cpp/toomanycooks</title>
+    <updated>2026-06-20T03:11:47Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-20:/package/dev-cpp/toomanycooks</id>
+    <content type="html">dev-cpp/toomanycooks is now available in Gentoo on these architectures: amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=6a4a92eaf73b9ff1b80edeab6d5fc1c0b70e35fa&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-cpp/toomanycooks" rel="alternate"></link>
+    <summary type="html">C++20 concurrency framework with no compromises</summary>
+    <author>
+      <name>Yixun Lan</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-text/cmark-gfm</title>
+    <updated>2026-06-20T03:11:34Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-20:/package/app-text/cmark-gfm</id>
+    <content type="html">app-text/cmark-gfm is now available in Gentoo on these architectures: amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=774f68ee8e7598446c04f21961755a0aee4a610c&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-text/cmark-gfm" rel="alternate"></link>
+    <summary type="html">GitHub&#39;s fork of cmark</summary>
+    <author>
+      <name>Yixun Lan</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-keys/openpgp-keys-mdroth</title>
+    <updated>2026-06-19T06:05:26Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-19:/package/sec-keys/openpgp-keys-mdroth</id>
+    <content type="html">sec-keys/openpgp-keys-mdroth is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~loong ~ppc ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=ed65b7d104220a803e2576188112c13afdc1edb4&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-keys/openpgp-keys-mdroth" rel="alternate"></link>
+    <summary type="html">OpenPGP key used by Michael Roth (mdroth)</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-emacs/keymap-popup</title>
+    <updated>2026-06-17T16:09:54Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-17:/package/app-emacs/keymap-popup</id>
+    <content type="html">app-emacs/keymap-popup is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=3a3cc935761f32550e3a572cec6368b6a2ba8370&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-emacs/keymap-popup" rel="alternate"></link>
+    <summary type="html">Described keymaps with popup help</summary>
+    <author>
+      <name>Ulrich Müller</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-emacs/fsm</title>
+    <updated>2026-06-17T16:09:54Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-17:/package/app-emacs/fsm</id>
+    <content type="html">app-emacs/fsm is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=d008c8cb8cfb61f2211feed63587a08d2c3afd09&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-emacs/fsm" rel="alternate"></link>
+    <summary type="html">State machine library</summary>
+    <author>
+      <name>Ulrich Müller</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-qt/qttasktree</title>
+    <updated>2026-06-17T15:38:44Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-17:/package/dev-qt/qttasktree</id>
+    <content type="html">dev-qt/qttasktree is now available in Gentoo on these architectures: . See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=f17e6ab13a93895d8492f74753b011b83df1b892&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-qt/qttasktree" rel="alternate"></link>
+    <summary type="html">Module to compose and execute asynchronous task workflows for the Qt6 framework</summary>
+    <author>
+      <name>Ionen Wolkens</name>
+    </author>
+  </entry>
+  <entry>
+    <title>kde-plasma/union</title>
+    <updated>2026-07-15T09:25:52Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-15:/package/kde-plasma/union</id>
+    <content type="html">kde-plasma/union is now available in Gentoo on these architectures: ~amd64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=15d52309a1ec71bf86d844d51ce866b52ed5f282&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/kde-plasma/union" rel="alternate"></link>
+    <summary type="html">Style engine providing a unified style description to separate output styles</summary>
+    <author>
+      <name>Andreas Sturmlechner</name>
+    </author>
+  </entry>
+  <entry>
+    <title>kde-plasma/plasma-nano</title>
+    <updated>2026-07-15T09:25:47Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-15:/package/kde-plasma/plasma-nano</id>
+    <content type="html">kde-plasma/plasma-nano is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=282330b3a119fedf877c1942dbb9f81e9421c314&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/kde-plasma/plasma-nano" rel="alternate"></link>
+    <summary type="html">Minimal Plasma shell package</summary>
+    <author>
+      <name>Andreas Sturmlechner</name>
+    </author>
+  </entry>
+  <entry>
+    <title>kde-plasma/plasma-bigscreen</title>
+    <updated>2026-07-15T09:25:45Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-15:/package/kde-plasma/plasma-bigscreen</id>
+    <content type="html">kde-plasma/plasma-bigscreen is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=443e2e50b7a151769e95aad2c5250e9383307c1c&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/kde-plasma/plasma-bigscreen" rel="alternate"></link>
+    <summary type="html">Plasma shell for TVs</summary>
+    <author>
+      <name>Andreas Sturmlechner</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-keys/openpgp-keys-kde</title>
+    <updated>2026-06-16T18:03:25Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-16:/package/sec-keys/openpgp-keys-kde</id>
+    <content type="html">sec-keys/openpgp-keys-kde is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~hppa ~loong ~ppc ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=3e7f9eb169201c5262a855ecffac38b8bab1cd69&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-keys/openpgp-keys-kde" rel="alternate"></link>
+    <summary type="html">OpenPGP keys used for KDE releases</summary>
+    <author>
+      <name>Andreas Sturmlechner</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-java/janino</title>
+    <updated>2026-06-13T08:56:30Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-13:/package/dev-java/janino</id>
+    <content type="html">dev-java/janino is now available in Gentoo on these architectures: amd64 arm64 ppc64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=e450a721be91688ceaedd99a445fd715527f4716&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-java/janino" rel="alternate"></link>
+    <summary type="html">An embedded compiler for run-time compilation purposes</summary>
+    <author>
+      <name>Miroslav Šulc</name>
+    </author>
+  </entry>
+  <entry>
+    <title>kde-apps/kmime-common</title>
+    <updated>2026-07-02T17:06:19Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-02:/package/kde-apps/kmime-common</id>
+    <content type="html">kde-apps/kmime-common is now available in Gentoo on these architectures: amd64 arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=e5eca17c3d184a9b0531b0e48e05c16bc5e0ab5a&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/kde-apps/kmime-common" rel="alternate"></link>
+    <summary type="html">Common files for kmime</summary>
+    <author>
+      <name>Andreas Sturmlechner</name>
+    </author>
+  </entry>
+  <entry>
+    <title>kde-frameworks/kmime</title>
+    <updated>2026-07-10T16:05:18Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-10:/package/kde-frameworks/kmime</id>
+    <content type="html">kde-frameworks/kmime is now available in Gentoo on these architectures: ~amd64 ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=0c6aca8cc6be65e6f4dd26110b283f329efc1fa7&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/kde-frameworks/kmime" rel="alternate"></link>
+    <summary type="html">Library for handling mail messages and newsgroup articles</summary>
+    <author>
+      <name>Andreas Sturmlechner</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/httpx2</title>
+    <updated>2026-07-23T14:33:12Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-23:/package/dev-python/httpx2</id>
+    <content type="html">dev-python/httpx2 is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~loong ~ppc ~ppc64 ~riscv ~s390 ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=632e3f86717d7af042661844fe4de572c50b1299&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/httpx2" rel="alternate"></link>
+    <summary type="html">The next generation HTTP client (Pydantic fork)</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/uv-dynamic-versioning</title>
+    <updated>2026-06-12T10:55:29Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-12:/package/dev-python/uv-dynamic-versioning</id>
+    <content type="html">dev-python/uv-dynamic-versioning is now available in Gentoo on these architectures: ~alpha amd64 ~arm arm64 ~hppa ~loong ppc ~ppc64 ~riscv ~s390 ~sparc x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=26321d5fcaad4382d8fa17c908fa8f2eeedb0346&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/uv-dynamic-versioning" rel="alternate"></link>
+    <summary type="html">Dynamic versioning based on VCS tags for uv/hatch project</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/dunamai</title>
+    <updated>2026-06-12T10:55:29Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-12:/package/dev-python/dunamai</id>
+    <content type="html">dev-python/dunamai is now available in Gentoo on these architectures: ~alpha amd64 ~arm arm64 ~hppa ~loong ppc ~ppc64 ~riscv ~s390 ~sparc x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=954b79f9cb1038e174fd5ba9b82752e20da9ade0&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/dunamai" rel="alternate"></link>
+    <summary type="html">Dynamic version generation</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/nest-asyncio2</title>
+    <updated>2026-06-27T04:54:17Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-27:/package/dev-python/nest-asyncio2</id>
+    <content type="html">dev-python/nest-asyncio2 is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86 ~arm64-macos ~x64-macos. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=b30a94b551101296d903fe13c6edcb8cdeadd0bc&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/nest-asyncio2" rel="alternate"></link>
+    <summary type="html">Patch asyncio to allow nested event loops</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-emacs/timu-caribbean-theme</title>
+    <updated>2026-06-09T02:22:37Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-09:/package/app-emacs/timu-caribbean-theme</id>
+    <content type="html">app-emacs/timu-caribbean-theme is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=73439a6854cce2e104afe316de305bffe6c8af42&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-emacs/timu-caribbean-theme" rel="alternate"></link>
+    <summary type="html">Color theme with cyan as a dominant color</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-keys/openpgp-keys-binutils</title>
+    <updated>2026-06-09T01:56:15Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-09:/package/sec-keys/openpgp-keys-binutils</id>
+    <content type="html">sec-keys/openpgp-keys-binutils is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=087e3ea59b4e062f31608b13c4e2c36d0c7c8cec&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-keys/openpgp-keys-binutils" rel="alternate"></link>
+    <summary type="html">OpenPGP keys used to sign GNU Binutils releases</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-emacs/vscode-dark-plus-emacs-theme</title>
+    <updated>2026-06-08T14:53:52Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-08:/package/app-emacs/vscode-dark-plus-emacs-theme</id>
+    <content type="html">app-emacs/vscode-dark-plus-emacs-theme is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=1e84b93885ed894ad246c935e199303909dd4447&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-emacs/vscode-dark-plus-emacs-theme" rel="alternate"></link>
+    <summary type="html">Accurate port of the default Visual Studio Code Dark+ theme for GNU Emacs</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-keys/openpgp-keys-dougmassay</title>
+    <updated>2026-06-08T04:00:36Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-08:/package/sec-keys/openpgp-keys-dougmassay</id>
+    <content type="html">sec-keys/openpgp-keys-dougmassay is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=e2d6f12e5e9f2a71a0ba24817a801ef42f08fda5&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-keys/openpgp-keys-dougmassay" rel="alternate"></link>
+    <summary type="html">OpenPGP key used by Doug Massay</summary>
+    <author>
+      <name>Arthur Zamarin</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-keys/openpgp-keys-zulucrypt</title>
+    <updated>2026-06-06T14:41:07Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-06:/package/sec-keys/openpgp-keys-zulucrypt</id>
+    <content type="html">sec-keys/openpgp-keys-zulucrypt is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~loong ~m68k ~mips ~ppc ~ppc64 ~riscv ~s390 ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=fc6c6f688e30551af514da6e2785a2a6130c00be&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-keys/openpgp-keys-zulucrypt" rel="alternate"></link>
+    <summary type="html">OpenPGP keys used by the zuluCrypt developer</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/vcsgraph</title>
+    <updated>2026-06-27T04:49:44Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-27:/package/dev-python/vcsgraph</id>
+    <content type="html">dev-python/vcsgraph is now available in Gentoo on these architectures: ~amd64 ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=251a76f57d90c19d4a179db1690dcfa2d542a137&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/vcsgraph" rel="alternate"></link>
+    <summary type="html">Graph algorithms for version control systems</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-keys/openpgp-keys-janmojzis</title>
+    <updated>2026-06-05T17:02:22Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-05:/package/sec-keys/openpgp-keys-janmojzis</id>
+    <content type="html">sec-keys/openpgp-keys-janmojzis is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~loong ~m68k ~mips ~ppc ~ppc64 ~riscv ~s390 ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=8c60243c179e19441bf2e21a7aba97f96dfa2171&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-keys/openpgp-keys-janmojzis" rel="alternate"></link>
+    <summary type="html">OpenPGP keys used by Jan Mojžíš</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-emacs/citre</title>
+    <updated>2026-06-05T13:45:46Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-05:/package/app-emacs/citre</id>
+    <content type="html">app-emacs/citre is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=c5cc66c08fc657fa1d81864f97314b09dc016780&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-emacs/citre" rel="alternate"></link>
+    <summary type="html">Superior code reading and auto-completion with pluggable backends for GNU Emacs</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>media-libs/libchdr</title>
+    <updated>2026-06-06T06:28:10Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-06:/package/media-libs/libchdr</id>
+    <content type="html">media-libs/libchdr is now available in Gentoo on these architectures: amd64 ~arm ~arm64 ~ppc64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=249d38d6ebf44731cacf8ffd76d4623f9738d09d&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/media-libs/libchdr" rel="alternate"></link>
+    <summary type="html">Standalone library for reading MAME&#39;s CHDv1-v5 formats</summary>
+    <author>
+      <name>Arthur Zamarin</name>
+    </author>
+  </entry>
+  <entry>
+    <title>acct-user/systemd-imds</title>
+    <updated>2026-06-04T20:15:10Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-04:/package/acct-user/systemd-imds</id>
+    <content type="html">acct-user/systemd-imds is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=01e42ce379124f83768b0dacfffd3ae8e3e0a836&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/acct-user/systemd-imds" rel="alternate"></link>
+    <summary type="html">System user: systemd-imds</summary>
+    <author>
+      <name>Mike Gilbert</name>
+    </author>
+  </entry>
+  <entry>
+    <title>acct-group/systemd-imds</title>
+    <updated>2026-06-04T20:15:09Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-04:/package/acct-group/systemd-imds</id>
+    <content type="html">acct-group/systemd-imds is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=327c748ea7d65dd44a40a4a00182b28584e501da&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/acct-group/systemd-imds" rel="alternate"></link>
+    <summary type="html">System group: systemd-imds</summary>
+    <author>
+      <name>Mike Gilbert</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-libs/cxx-rust-cssparser</title>
+    <updated>2026-06-05T20:54:41Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-05:/package/dev-libs/cxx-rust-cssparser</id>
+    <content type="html">dev-libs/cxx-rust-cssparser is now available in Gentoo on these architectures: ~amd64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=3adc3059764858d6292841203ded4658ca6d2a8c&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-libs/cxx-rust-cssparser" rel="alternate"></link>
+    <summary type="html">C++ library for parsing CSS that uses the Rust cssparser crate internally</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-db/powa-web</title>
+    <updated>2026-06-04T12:57:08Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-04:/package/dev-db/powa-web</id>
+    <content type="html">dev-db/powa-web is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=e1521fa7d8edfaadf54ff2a9a803c035d5ef82f3&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-db/powa-web" rel="alternate"></link>
+    <summary type="html">PostgreSQL Workload Analyzer user interface</summary>
+    <author>
+      <name>Conrad Kostecki</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-db/powa-collector</title>
+    <updated>2026-06-04T12:55:28Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-04:/package/dev-db/powa-collector</id>
+    <content type="html">dev-db/powa-collector is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=b75567898b0489f5de9b386e9ceee93b9ff55764&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-db/powa-collector" rel="alternate"></link>
+    <summary type="html">PostgreSQL Workload Analyzer Collector</summary>
+    <author>
+      <name>Conrad Kostecki</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-db/powa-archivist</title>
+    <updated>2026-07-15T20:42:42Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-15:/package/dev-db/powa-archivist</id>
+    <content type="html">dev-db/powa-archivist is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=4fe14c68facb6abad7b416f3c9dc512d9cc5bbdb&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-db/powa-archivist" rel="alternate"></link>
+    <summary type="html">PostgreSQL Workload Analyzer Archivist</summary>
+    <author>
+      <name>Conrad Kostecki</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-db/pg_wait_sampling</title>
+    <updated>2026-07-15T20:38:19Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-15:/package/dev-db/pg_wait_sampling</id>
+    <content type="html">dev-db/pg_wait_sampling is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=861472ee019e2b61eb9dd8ad6f9090296bc3f0b3&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-db/pg_wait_sampling" rel="alternate"></link>
+    <summary type="html">Sampling based statistics of wait events</summary>
+    <author>
+      <name>Conrad Kostecki</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-db/pg_track_settings</title>
+    <updated>2026-06-28T15:01:05Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-28:/package/dev-db/pg_track_settings</id>
+    <content type="html">dev-db/pg_track_settings is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=c21d55263d790db24e946a3efa1428cceef1e9dd&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-db/pg_track_settings" rel="alternate"></link>
+    <summary type="html">Keeps track of PostgreSQL settings modification</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-db/pg_stat_kcache</title>
+    <updated>2026-06-28T15:01:03Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-28:/package/dev-db/pg_stat_kcache</id>
+    <content type="html">dev-db/pg_stat_kcache is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=b9caac8266e042f37c16498da73bc3cf3b2e934d&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-db/pg_stat_kcache" rel="alternate"></link>
+    <summary type="html">Statistics about physical disk access and CPU consumption done by backends</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-db/pg_qualstats</title>
+    <updated>2026-06-28T15:01:03Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-28:/package/dev-db/pg_qualstats</id>
+    <content type="html">dev-db/pg_qualstats is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=84c881b838b6bd345c372d8ff42b3531060c0509&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-db/pg_qualstats" rel="alternate"></link>
+    <summary type="html">Statistics about predicates for helping finding what indices are missing</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-db/hypopg</title>
+    <updated>2026-06-28T15:01:03Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-28:/package/dev-db/hypopg</id>
+    <content type="html">dev-db/hypopg is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=689b5e4dbd7bb7f5063f22382417454af853d5bd&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-db/hypopg" rel="alternate"></link>
+    <summary type="html">Hypothetical Indexes for PostgreSQL</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>acct-user/powa</title>
+    <updated>2026-06-04T12:36:42Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-04:/package/acct-user/powa</id>
+    <content type="html">acct-user/powa is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=1d1d6fac27829247c55f59d83dd08204e5ae299c&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/acct-user/powa" rel="alternate"></link>
+    <summary type="html">A user for dev-db/powa-web</summary>
+    <author>
+      <name>Conrad Kostecki</name>
+    </author>
+  </entry>
+  <entry>
+    <title>acct-group/powa</title>
+    <updated>2026-06-04T12:34:00Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-04:/package/acct-group/powa</id>
+    <content type="html">acct-group/powa is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=e137c09189c1306206a3875a517a8c72ef9620ab&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/acct-group/powa" rel="alternate"></link>
+    <summary type="html">System group: powa</summary>
+    <author>
+      <name>Conrad Kostecki</name>
+    </author>
+  </entry>
+  <entry>
+    <title>net-libs/lwip</title>
+    <updated>2026-06-03T21:09:28Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-03:/package/net-libs/lwip</id>
+    <content type="html">net-libs/lwip is now available in Gentoo on these architectures: . See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=298a04c437307996ffdbcd1f7bcacbb3babbc438&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/net-libs/lwip" rel="alternate"></link>
+    <summary type="html">Small independent implementation of the TCP/IP protocol suite</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-keys/openpgp-keys-zsh</title>
+    <updated>2026-06-03T16:17:09Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-03:/package/sec-keys/openpgp-keys-zsh</id>
+    <content type="html">sec-keys/openpgp-keys-zsh is now available in Gentoo on these architectures: ~alpha ~amd64 ~arm ~arm64 ~hppa ~loong ~m68k ~mips ~ppc ~ppc64 ~riscv ~s390 ~sparc ~x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=99ae62c724cc5fbc1ce7f1446836372f9da9715a&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-keys/openpgp-keys-zsh" rel="alternate"></link>
+    <summary type="html">PGP keys used to sign ZSH releases</summary>
+    <author>
+      <name>Mike Gilbert</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/syrupy</title>
+    <updated>2026-07-09T02:40:50Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-09:/package/dev-python/syrupy</id>
+    <content type="html">dev-python/syrupy is now available in Gentoo on these architectures: ~amd64 ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=17291ab68f567d13029e67144268b9976999741f&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/syrupy" rel="alternate"></link>
+    <summary type="html">The sweeter pytest snapshot plugin</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/valkey</title>
+    <updated>2026-06-01T19:28:47Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-01:/package/dev-python/valkey</id>
+    <content type="html">dev-python/valkey is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~ppc64 ~riscv ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=5db5a61878e05bf4c01395a7580406f02321c5ca&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/valkey" rel="alternate"></link>
+    <summary type="html">Python client for Valkey forked from redis-py</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/fastapi</title>
+    <updated>2026-07-30T02:33:13Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/dev-python/fastapi</id>
+    <content type="html">dev-python/fastapi is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=e0fa0e6b8157765fb658beeb90b3aa956c63951e&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/fastapi" rel="alternate"></link>
+    <summary type="html">High performance framework, easy to learn, fast to code, ready for production</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>net-misc/gokrazy-rsync</title>
+    <updated>2026-05-31T20:37:39Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-31:/package/net-misc/gokrazy-rsync</id>
+    <content type="html">net-misc/gokrazy-rsync is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=394871a7e6866f063ac14e5fc745338be8db7cce&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/net-misc/gokrazy-rsync" rel="alternate"></link>
+    <summary type="html">rsync in Go!</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-db/valkey</title>
+    <updated>2026-06-01T10:25:23Z</updated>
+    <id>tag:packages.gentoo.org,2026-06-01:/package/dev-db/valkey</id>
+    <content type="html">dev-db/valkey is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~hppa ~loong ~ppc ~ppc64 ~riscv ~s390 ~sparc ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=7274908f8196ba7e607781ee4e5b10f1cf37e83b&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-db/valkey" rel="alternate"></link>
+    <summary type="html">Persistent key-value store, fork of dev-db/redis</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>acct-user/valkey</title>
+    <updated>2026-05-31T19:53:31Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-31:/package/acct-user/valkey</id>
+    <content type="html">acct-user/valkey is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=8d878fd772e3981fba2ad572c62f18e445f0901b&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/acct-user/valkey" rel="alternate"></link>
+    <summary type="html">Valkey program user</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>acct-group/valkey</title>
+    <updated>2026-05-31T19:53:30Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-31:/package/acct-group/valkey</id>
+    <content type="html">acct-group/valkey is now available in Gentoo on these architectures: ~alpha amd64 arm arm64 ~hppa ~loong ~m68k ~mips ppc ppc64 ~riscv ~s390 ~sparc x86 ~arm64-macos ~x64-macos ~x64-solaris. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=40383b5c925250e77e82d997103ea36dbb94f1df&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/acct-group/valkey" rel="alternate"></link>
+    <summary type="html">Valkey program group</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-kernel/gentoo-kernel-modprep</title>
+    <updated>2026-07-29T19:37:36Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-29:/package/sys-kernel/gentoo-kernel-modprep</id>
+    <content type="html">sys-kernel/gentoo-kernel-modprep is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=31e143f44d169a99851df0d44944f8e35ed36fe3&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-kernel/gentoo-kernel-modprep" rel="alternate"></link>
+    <summary type="html">Minimal subset of gentoo-kernel-bin for building modules, for containers</summary>
+    <author>
+      <name>Michał Górny</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-emacs/clatter</title>
+    <updated>2026-07-30T11:11:49Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-30:/package/app-emacs/clatter</id>
+    <content type="html">app-emacs/clatter is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=d8b6d9a09785580bf7f141edbafec2c1b6c61210&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-emacs/clatter" rel="alternate"></link>
+    <summary type="html">An IRCv3-compliant IRC client for GNU Emacs</summary>
+    <author>
+      <name>Maciej Barć</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sci-astronomy/ser-player</title>
+    <updated>2026-05-29T17:24:56Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-29:/package/sci-astronomy/ser-player</id>
+    <content type="html">sci-astronomy/ser-player is now available in Gentoo on these architectures: . See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=af08bf0aed8c75d566d495c7b175251a2cbd7ebb&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sci-astronomy/ser-player" rel="alternate"></link>
+    <summary type="html">Video player for SER files used for solar, lunar and planetary astronomy-imaging</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-cluster/medipack</title>
+    <updated>2026-05-29T06:14:29Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-29:/package/sys-cluster/medipack</id>
+    <content type="html">sys-cluster/medipack is now available in Gentoo on these architectures: . See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=85fc03743cb4bee4885f468260e6e7844a0912ab&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-cluster/medipack" rel="alternate"></link>
+    <summary type="html">Message Differentiation Package</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sys-cluster/codipack</title>
+    <updated>2026-05-29T06:14:28Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-29:/package/sys-cluster/codipack</id>
+    <content type="html">sys-cluster/codipack is now available in Gentoo on these architectures: . See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=ac1e8d7ce07dd6775190b3c22f0726e7e51ea893&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sys-cluster/codipack" rel="alternate"></link>
+    <summary type="html">Fast gradient evaluation in C++ based on Expression Templates</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>media-libs/libresidfp</title>
+    <updated>2026-07-02T11:08:14Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-02:/package/media-libs/libresidfp</id>
+    <content type="html">media-libs/libresidfp is now available in Gentoo on these architectures: ~amd64 ~hppa ~ppc ~ppc64 ~riscv ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=1a2a810c61a6f4db3c645b40e548fd5311016e36&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/media-libs/libresidfp" rel="alternate"></link>
+    <summary type="html">Library to software emulation of the MOS 6581/8580 SID chip</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-keys/openpgp-keys-johnogness</title>
+    <updated>2026-05-27T09:47:15Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-27:/package/sec-keys/openpgp-keys-johnogness</id>
+    <content type="html">sec-keys/openpgp-keys-johnogness is now available in Gentoo on these architectures: ~amd64 ~arm64 ~ppc64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=dba34684968b5328bc6a5bc55289a1a5ae0b6721&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-keys/openpgp-keys-johnogness" rel="alternate"></link>
+    <summary type="html">OpenPGP keys used by John Ogness</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-keys/openpgp-keys-moritzbunkus</title>
+    <updated>2026-07-08T02:33:05Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-08:/package/sec-keys/openpgp-keys-moritzbunkus</id>
+    <content type="html">sec-keys/openpgp-keys-moritzbunkus is now available in Gentoo on these architectures: ~alpha amd64 ~arm ~arm64 ~hppa ~loong ~mips ppc ppc64 ~riscv ~s390 ~sparc x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=3777ee342f4437b19ca5d9c1a2a31aeadc4fbb64&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-keys/openpgp-keys-moritzbunkus" rel="alternate"></link>
+    <summary type="html">OpenPGP keys used by Moritz Bunkus</summary>
+    <author>
+      <name>Eli Schwartz</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-obex</title>
+    <updated>2026-05-26T02:33:22Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-26:/package/sec-policy/selinux-obex</id>
+    <content type="html">sec-policy/selinux-obex is now available in Gentoo on these architectures: . See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=c393c018a1f7a59b5281ffb0b7dcdc9de6d9c435&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-obex" rel="alternate"></link>
+    <summary type="html">SELinux policy for obex</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-mongodb</title>
+    <updated>2026-05-27T05:10:48Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-27:/package/sec-policy/selinux-mongodb</id>
+    <content type="html">sec-policy/selinux-mongodb is now available in Gentoo on these architectures: amd64 arm arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=529f26439587785edc278f5292ef746b027fc8c7&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-mongodb" rel="alternate"></link>
+    <summary type="html">SELinux policy for mongodb</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-uuidd</title>
+    <updated>2026-05-26T01:41:57Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-26:/package/sec-policy/selinux-uuidd</id>
+    <content type="html">sec-policy/selinux-uuidd is now available in Gentoo on these architectures: amd64 arm arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=6ca9a834b6222593497a8198fb61d36dd05d8d42&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-uuidd" rel="alternate"></link>
+    <summary type="html">SELinux policy for uuidd</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-hadoop</title>
+    <updated>2026-05-27T05:10:48Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-27:/package/sec-policy/selinux-hadoop</id>
+    <content type="html">sec-policy/selinux-hadoop is now available in Gentoo on these architectures: amd64 arm arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=529f26439587785edc278f5292ef746b027fc8c7&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-hadoop" rel="alternate"></link>
+    <summary type="html">SELinux policy for hadoop</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-rlogin</title>
+    <updated>2026-05-26T01:21:59Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-26:/package/sec-policy/selinux-rlogin</id>
+    <content type="html">sec-policy/selinux-rlogin is now available in Gentoo on these architectures: . See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=3725b5ca20e50b53022361594e2edb6290c83376&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-rlogin" rel="alternate"></link>
+    <summary type="html">SELinux policy for rlogin</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-gdomap</title>
+    <updated>2026-07-12T21:59:02Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-12:/package/sec-policy/selinux-gdomap</id>
+    <content type="html">sec-policy/selinux-gdomap is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=767c7532632743551ec91049764d808139d6b052&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-gdomap" rel="alternate"></link>
+    <summary type="html">SELinux policy for gdomap</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-sigrok</title>
+    <updated>2026-07-12T21:59:02Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-12:/package/sec-policy/selinux-sigrok</id>
+    <content type="html">sec-policy/selinux-sigrok is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=767c7532632743551ec91049764d808139d6b052&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-sigrok" rel="alternate"></link>
+    <summary type="html">SELinux policy for sigrok</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-passenger</title>
+    <updated>2026-05-26T00:38:30Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-26:/package/sec-policy/selinux-passenger</id>
+    <content type="html">sec-policy/selinux-passenger is now available in Gentoo on these architectures: amd64 arm arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=8409fbeb1649b76e798d520a0f60072487611949&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-passenger" rel="alternate"></link>
+    <summary type="html">SELinux policy for passenger</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-pwauth</title>
+    <updated>2026-07-12T21:59:02Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-12:/package/sec-policy/selinux-pwauth</id>
+    <content type="html">sec-policy/selinux-pwauth is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=767c7532632743551ec91049764d808139d6b052&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-pwauth" rel="alternate"></link>
+    <summary type="html">SELinux policy for pwauth</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-hwloc</title>
+    <updated>2026-07-12T21:59:02Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-12:/package/sec-policy/selinux-hwloc</id>
+    <content type="html">sec-policy/selinux-hwloc is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=767c7532632743551ec91049764d808139d6b052&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-hwloc" rel="alternate"></link>
+    <summary type="html">SELinux policy for hwloc</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-rabbitmq</title>
+    <updated>2026-05-25T01:42:54Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-25:/package/sec-policy/selinux-rabbitmq</id>
+    <content type="html">sec-policy/selinux-rabbitmq is now available in Gentoo on these architectures: . See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=2b098327509a58dd45b2c5871e53d9364ef6e6ef&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-rabbitmq" rel="alternate"></link>
+    <summary type="html">SELinux policy for rabbitmq</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-wdmd</title>
+    <updated>2026-05-25T01:40:24Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-25:/package/sec-policy/selinux-wdmd</id>
+    <content type="html">sec-policy/selinux-wdmd is now available in Gentoo on these architectures: amd64 arm arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=2b32f98c2076a55523d3be2f0958cb1171e1ee11&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-wdmd" rel="alternate"></link>
+    <summary type="html">SELinux policy for wdmd</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-blueman</title>
+    <updated>2026-05-25T01:36:29Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-25:/package/sec-policy/selinux-blueman</id>
+    <content type="html">sec-policy/selinux-blueman is now available in Gentoo on these architectures: . See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=733b5282bd31931735e8ca99e15ce86cc0543062&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-blueman" rel="alternate"></link>
+    <summary type="html">SELinux policy for blueman</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-aptcacher</title>
+    <updated>2026-07-12T21:59:02Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-12:/package/sec-policy/selinux-aptcacher</id>
+    <content type="html">sec-policy/selinux-aptcacher is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=767c7532632743551ec91049764d808139d6b052&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-aptcacher" rel="alternate"></link>
+    <summary type="html">SELinux policy for aptcacher</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-mediawiki</title>
+    <updated>2026-05-25T01:31:28Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-25:/package/sec-policy/selinux-mediawiki</id>
+    <content type="html">sec-policy/selinux-mediawiki is now available in Gentoo on these architectures: . See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=56f91a9bf648e0198d5b49ce0d1d599fe6f1a05b&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-mediawiki" rel="alternate"></link>
+    <summary type="html">SELinux policy for mediawiki</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-bugzilla</title>
+    <updated>2026-05-27T05:10:48Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-27:/package/sec-policy/selinux-bugzilla</id>
+    <content type="html">sec-policy/selinux-bugzilla is now available in Gentoo on these architectures: amd64 arm arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=529f26439587785edc278f5292ef746b027fc8c7&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-bugzilla" rel="alternate"></link>
+    <summary type="html">SELinux policy for bugzilla</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-ofono</title>
+    <updated>2026-05-27T05:10:48Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-27:/package/sec-policy/selinux-ofono</id>
+    <content type="html">sec-policy/selinux-ofono is now available in Gentoo on these architectures: amd64 arm arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=529f26439587785edc278f5292ef746b027fc8c7&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-ofono" rel="alternate"></link>
+    <summary type="html">SELinux policy for ofono</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-iodine</title>
+    <updated>2026-05-25T01:25:15Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-25:/package/sec-policy/selinux-iodine</id>
+    <content type="html">sec-policy/selinux-iodine is now available in Gentoo on these architectures: . See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=deb5c3288c65b0c95c324d9735ad1d6ecd96132b&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-iodine" rel="alternate"></link>
+    <summary type="html">SELinux policy for iodine</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-cyrus</title>
+    <updated>2026-05-27T05:10:48Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-27:/package/sec-policy/selinux-cyrus</id>
+    <content type="html">sec-policy/selinux-cyrus is now available in Gentoo on these architectures: amd64 arm arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=529f26439587785edc278f5292ef746b027fc8c7&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-cyrus" rel="alternate"></link>
+    <summary type="html">SELinux policy for cyrus</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-boinc</title>
+    <updated>2026-07-12T21:59:02Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-12:/package/sec-policy/selinux-boinc</id>
+    <content type="html">sec-policy/selinux-boinc is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=767c7532632743551ec91049764d808139d6b052&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-boinc" rel="alternate"></link>
+    <summary type="html">SELinux policy for boinc</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-isns</title>
+    <updated>2026-05-27T05:10:48Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-27:/package/sec-policy/selinux-isns</id>
+    <content type="html">sec-policy/selinux-isns is now available in Gentoo on these architectures: amd64 arm arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=529f26439587785edc278f5292ef746b027fc8c7&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-isns" rel="alternate"></link>
+    <summary type="html">SELinux policy for isns</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-libmtp</title>
+    <updated>2026-05-25T00:54:00Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-25:/package/sec-policy/selinux-libmtp</id>
+    <content type="html">sec-policy/selinux-libmtp is now available in Gentoo on these architectures: amd64 arm arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=25e7ea3a2c20ac51d5572993a2d318478e9efc92&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-libmtp" rel="alternate"></link>
+    <summary type="html">SELinux policy for libmtp</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-cryfs</title>
+    <updated>2026-05-27T05:10:48Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-27:/package/sec-policy/selinux-cryfs</id>
+    <content type="html">sec-policy/selinux-cryfs is now available in Gentoo on these architectures: amd64 arm arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=529f26439587785edc278f5292ef746b027fc8c7&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-cryfs" rel="alternate"></link>
+    <summary type="html">SELinux policy for cryfs</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-svnserve</title>
+    <updated>2026-05-25T00:50:49Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-25:/package/sec-policy/selinux-svnserve</id>
+    <content type="html">sec-policy/selinux-svnserve is now available in Gentoo on these architectures: . See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=ecb563dd1b0ad9641f800811b688f9fc05ca3670&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-svnserve" rel="alternate"></link>
+    <summary type="html">SELinux policy for svnserve</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-iscsi</title>
+    <updated>2026-07-12T21:59:02Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-12:/package/sec-policy/selinux-iscsi</id>
+    <content type="html">sec-policy/selinux-iscsi is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=767c7532632743551ec91049764d808139d6b052&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-iscsi" rel="alternate"></link>
+    <summary type="html">SELinux policy for iscsi</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-minidlna</title>
+    <updated>2026-05-24T23:33:25Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-24:/package/sec-policy/selinux-minidlna</id>
+    <content type="html">sec-policy/selinux-minidlna is now available in Gentoo on these architectures: . See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=e582763d2d089e269688c1d6614395f4fc6606b2&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-minidlna" rel="alternate"></link>
+    <summary type="html">SELinux policy for minidlna</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-ipmitool</title>
+    <updated>2026-05-24T23:29:01Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-24:/package/sec-policy/selinux-ipmitool</id>
+    <content type="html">sec-policy/selinux-ipmitool is now available in Gentoo on these architectures: . See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=344cc186366a38562a28f3f9f46d3314a4c40dd6&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-ipmitool" rel="alternate"></link>
+    <summary type="html">SELinux policy for ipmitool</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-bubblewrap</title>
+    <updated>2026-07-12T21:59:02Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-12:/package/sec-policy/selinux-bubblewrap</id>
+    <content type="html">sec-policy/selinux-bubblewrap is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=767c7532632743551ec91049764d808139d6b052&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-bubblewrap" rel="alternate"></link>
+    <summary type="html">SELinux policy for bubblewrap</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-seatd</title>
+    <updated>2026-05-27T05:10:48Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-27:/package/sec-policy/selinux-seatd</id>
+    <content type="html">sec-policy/selinux-seatd is now available in Gentoo on these architectures: amd64 arm arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=529f26439587785edc278f5292ef746b027fc8c7&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-seatd" rel="alternate"></link>
+    <summary type="html">SELinux policy for seatd</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-chkrootkit</title>
+    <updated>2026-05-27T05:10:48Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-27:/package/sec-policy/selinux-chkrootkit</id>
+    <content type="html">sec-policy/selinux-chkrootkit is now available in Gentoo on these architectures: amd64 arm arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=529f26439587785edc278f5292ef746b027fc8c7&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-chkrootkit" rel="alternate"></link>
+    <summary type="html">SELinux policy for chkrootkit</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-rkhunter</title>
+    <updated>2026-07-12T21:59:02Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-12:/package/sec-policy/selinux-rkhunter</id>
+    <content type="html">sec-policy/selinux-rkhunter is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=767c7532632743551ec91049764d808139d6b052&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-rkhunter" rel="alternate"></link>
+    <summary type="html">SELinux policy for rkhunter</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-man2html</title>
+    <updated>2026-05-27T05:10:48Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-27:/package/sec-policy/selinux-man2html</id>
+    <content type="html">sec-policy/selinux-man2html is now available in Gentoo on these architectures: amd64 arm arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=529f26439587785edc278f5292ef746b027fc8c7&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-man2html" rel="alternate"></link>
+    <summary type="html">SELinux policy for man2html</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-geoclue</title>
+    <updated>2026-07-12T21:59:02Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-12:/package/sec-policy/selinux-geoclue</id>
+    <content type="html">sec-policy/selinux-geoclue is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=767c7532632743551ec91049764d808139d6b052&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-geoclue" rel="alternate"></link>
+    <summary type="html">SELinux policy for geoclue</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-drbd</title>
+    <updated>2026-05-24T23:00:03Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-24:/package/sec-policy/selinux-drbd</id>
+    <content type="html">sec-policy/selinux-drbd is now available in Gentoo on these architectures: . See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=426cb2a80714e7c03e8032e2508ddb6a33fd36c8&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-drbd" rel="alternate"></link>
+    <summary type="html">SELinux policy for drbd</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-haproxy</title>
+    <updated>2026-05-24T22:31:36Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-24:/package/sec-policy/selinux-haproxy</id>
+    <content type="html">sec-policy/selinux-haproxy is now available in Gentoo on these architectures: amd64 arm arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=6e6e209b8fe9e16cc8691b81717e255cad700212&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-haproxy" rel="alternate"></link>
+    <summary type="html">SELinux policy for haproxy</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-minissdpd</title>
+    <updated>2026-05-27T05:10:48Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-27:/package/sec-policy/selinux-minissdpd</id>
+    <content type="html">sec-policy/selinux-minissdpd is now available in Gentoo on these architectures: amd64 arm arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=529f26439587785edc278f5292ef746b027fc8c7&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-minissdpd" rel="alternate"></link>
+    <summary type="html">SELinux policy for minissdpd</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-numad</title>
+    <updated>2026-05-24T22:31:30Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-24:/package/sec-policy/selinux-numad</id>
+    <content type="html">sec-policy/selinux-numad is now available in Gentoo on these architectures: amd64 arm arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=2b58afbc0ca0cb91d6fd7b7e6a4032cbc5298e5d&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-numad" rel="alternate"></link>
+    <summary type="html">SELinux policy for numad</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-monit</title>
+    <updated>2026-05-24T21:56:24Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-24:/package/sec-policy/selinux-monit</id>
+    <content type="html">sec-policy/selinux-monit is now available in Gentoo on these architectures: amd64 arm arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=66cfeabcbbfd5ea2d76209315df6a2472e717d76&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-monit" rel="alternate"></link>
+    <summary type="html">SELinux policy for monit</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-tuned</title>
+    <updated>2026-07-12T21:59:02Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-12:/package/sec-policy/selinux-tuned</id>
+    <content type="html">sec-policy/selinux-tuned is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=767c7532632743551ec91049764d808139d6b052&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-tuned" rel="alternate"></link>
+    <summary type="html">SELinux policy for tuned</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-sanlock</title>
+    <updated>2026-05-24T21:56:21Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-24:/package/sec-policy/selinux-sanlock</id>
+    <content type="html">sec-policy/selinux-sanlock is now available in Gentoo on these architectures: amd64 arm arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=fc833652e209aa0f457b5ce5a56799074cb8a9d9&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-sanlock" rel="alternate"></link>
+    <summary type="html">SELinux policy for sanlock</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-fwupd</title>
+    <updated>2026-05-24T21:43:46Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-24:/package/sec-policy/selinux-fwupd</id>
+    <content type="html">sec-policy/selinux-fwupd is now available in Gentoo on these architectures: . See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=7a7fe93b07e99794c1bc2231984f6654c7743e54&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-fwupd" rel="alternate"></link>
+    <summary type="html">SELinux policy for fwupd</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-wayland</title>
+    <updated>2026-05-24T21:30:55Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-24:/package/sec-policy/selinux-wayland</id>
+    <content type="html">sec-policy/selinux-wayland is now available in Gentoo on these architectures: amd64 arm arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=1aae5074841c4fee135cefe95b5af7987b2a3930&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-wayland" rel="alternate"></link>
+    <summary type="html">SELinux policy for wayland</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-bird</title>
+    <updated>2026-05-24T21:20:01Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-24:/package/sec-policy/selinux-bird</id>
+    <content type="html">sec-policy/selinux-bird is now available in Gentoo on these architectures: amd64 arm arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=a0e14690b73d0aed3b61ac4c725e768583b47028&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-bird" rel="alternate"></link>
+    <summary type="html">SELinux policy for bird</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-nsd</title>
+    <updated>2026-07-12T21:59:02Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-12:/package/sec-policy/selinux-nsd</id>
+    <content type="html">sec-policy/selinux-nsd is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=767c7532632743551ec91049764d808139d6b052&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-nsd" rel="alternate"></link>
+    <summary type="html">SELinux policy for nsd</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-incus</title>
+    <updated>2026-07-12T21:59:02Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-12:/package/sec-policy/selinux-incus</id>
+    <content type="html">sec-policy/selinux-incus is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=767c7532632743551ec91049764d808139d6b052&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-incus" rel="alternate"></link>
+    <summary type="html">SELinux policy for incus</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-emacs/emacs-secil-mode</title>
+    <updated>2026-05-23T19:57:51Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-23:/package/app-emacs/emacs-secil-mode</id>
+    <content type="html">app-emacs/emacs-secil-mode is now available in Gentoo on these architectures: ~amd64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=adec97fc360d537f574b01bee2f7f7a709cd4f23&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-emacs/emacs-secil-mode" rel="alternate"></link>
+    <summary type="html">Simple Emacs major mode for editing SELinux CIL format files</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-needrestart</title>
+    <updated>2026-07-12T21:59:02Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-12:/package/sec-policy/selinux-needrestart</id>
+    <content type="html">sec-policy/selinux-needrestart is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=767c7532632743551ec91049764d808139d6b052&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-needrestart" rel="alternate"></link>
+    <summary type="html">SELinux policy for needrestart</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>sec-policy/selinux-tpm2</title>
+    <updated>2026-07-12T21:59:02Z</updated>
+    <id>tag:packages.gentoo.org,2026-07-12:/package/sec-policy/selinux-tpm2</id>
+    <content type="html">sec-policy/selinux-tpm2 is now available in Gentoo on these architectures: ~amd64 ~arm ~arm64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=767c7532632743551ec91049764d808139d6b052&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/sec-policy/selinux-tpm2" rel="alternate"></link>
+    <summary type="html">SELinux policy for tpm2</summary>
+    <author>
+      <name>Jason Zaman</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/jinxed</title>
+    <updated>2026-05-24T21:20:15Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-24:/package/dev-python/jinxed</id>
+    <content type="html">dev-python/jinxed is now available in Gentoo on these architectures: amd64 arm64 x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=7053708c159eb1f68751538b3bf6776395a3b900&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/jinxed" rel="alternate"></link>
+    <summary type="html">A pure-Python implementation of a subset of the Python curses library</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>app-misc/consoleet-utils</title>
+    <updated>2026-05-29T06:14:14Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-29:/package/app-misc/consoleet-utils</id>
+    <content type="html">app-misc/consoleet-utils is now available in Gentoo on these architectures: ~amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=94c0407d2d8aada6f41bf86df0b9276f845c79a1&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/app-misc/consoleet-utils" rel="alternate"></link>
+    <summary type="html">Set of utilities for manipulating terminal fonts and colors</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>dev-python/requests-ratelimiter</title>
+    <updated>2026-05-18T21:21:12Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-18:/package/dev-python/requests-ratelimiter</id>
+    <content type="html">dev-python/requests-ratelimiter is now available in Gentoo on these architectures: amd64 ~x86. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=55fb1530e2614282aa89e85afb62a614eb3433be&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/dev-python/requests-ratelimiter" rel="alternate"></link>
+    <summary type="html">Rate-limiting for the requests library</summary>
+    <author>
+      <name>Sam James</name>
+    </author>
+  </entry>
+  <entry>
+    <title>media-video/srs</title>
+    <updated>2026-05-21T21:45:23Z</updated>
+    <id>tag:packages.gentoo.org,2026-05-21:/package/media-video/srs</id>
+    <content type="html">media-video/srs is now available in Gentoo on these architectures: ~amd64 ~arm64. See &lt;a href=&#39;https://gitweb.gentoo.org/repo/gentoo.git/commit/?id=73de5dc4b24b66b5e0e01ba3b7233fea6c6253b4&#39;&gt;Gitweb&lt;/a&gt;</content>
+    <link href="https://packages.gentoo.org/package/media-video/srs" rel="alternate"></link>
+    <summary type="html">Simple Realtime media Server</summary>
+    <author>
+      <name>Alfredo Tupone</name>
+    </author>
+  </entry>
+</feed>

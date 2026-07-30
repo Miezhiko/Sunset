@@ -22,6 +22,7 @@ serde_derive            = "1"
 serde_json              = "1"
 serde_dhall             = "0.13"
 nipper                  = "0.1"
+quick-xml               = { version = "0.41", features = ["serialize"] }
 sled                    = "=1.0.0-alpha.124"
 twilight-http           = "0.16.0"
 twilight-gateway        = "0.16.0"

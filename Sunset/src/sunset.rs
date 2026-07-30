@@ -4,6 +4,7 @@ use crate::types::common::{
 };
 
 use crate::handler::handle_event;
+use crate::status::spawn_presence_updater;
 
 use std::sync::Arc;
 use std::collections::HashSet;
@@ -57,6 +58,8 @@ pub async fn run(opts: IOptions) -> anyhow::Result<()> {
                 .into_iter()
                 .map(|id| Id::new(id))
                 .collect();
+
+  spawn_presence_updater(shard.sender(), request_client.clone());
 
   let state = Arc::new(StateRef { http
                                 , request_client
